@@ -1,0 +1,610 @@
+,Name,Status,Population,Address,location,point,latitude,longitude,altitude
+0,Arima,Borough,33606,"Arima, Trinidad and Tobago","Arima, 300831, Trinidad and Tobago","(10.6372057, -61.2829762, 0.0)",10.6372057,-61.2829762,0.0
+1,Arima Proper,Urban Community,9082,"Arima Proper, Trinidad and Tobago",,,,,
+2,Calvary Hill,Urban Community,1330,"Calvary Hill, Trinidad and Tobago","Calvary Hill, Saint Ann's, Port of Spain, 190130, Trinidad and Tobago","(10.7097744, -61.5090987, 0.0)",10.7097744,-61.5090987,0.0
+3,Carib Homes,Urban Community,585,"Carib Homes, Trinidad and Tobago",,,,,
+4,Malabar,Urban Community,11130,"Malabar, Trinidad and Tobago","Malabar, Arima, 300831, Trinidad and Tobago","(10.6196194, -61.2774636, 0.0)",10.6196194,-61.2774636,0.0
+5,Maturita [↑ partly also in Tunapuna/Piarco],Urban Community,3650,"Maturita [↑ partly also in Tunapuna/Piarco], Trinidad and Tobago",,,,,
+6,Mount Pleasant,Urban Community,1240,"Mount Pleasant, Trinidad and Tobago","Mount Pleasant, Scarborough, Tobago, Trinidad and Tobago","(11.1670196, -60.7929427, 0.0)",11.1670196,-60.7929427,0.0
+7,O'Meara Road,Urban Community,2593,"O'Meara Road, Trinidad and Tobago","O'Meara Road, Greenvale Park, La Horquetta, San Raphael, 351443, Trinidad and Tobago","(10.5925226, -61.294142, 0.0)",10.5925226,-61.294142,0.0
+8,Tumpuna Road,Urban Community,6355,"Tumpuna Road, Trinidad and Tobago","Tumpuna Road, San Raphael, Couva-Tabaquite-Talparo, 300831, Trinidad and Tobago","(10.5869722, -61.235245, 0.0)",10.5869722,-61.235245,0.0
+9,Chaguanas,Borough,83516,"Chaguanas, Trinidad and Tobago","Chaguanas, Trinidad and Tobago","(10.5346868, -61.415520997957955, 0.0)",10.5346868,-61.415520997957955,0.0
+10,Chaguanas Proper,Urban Community,2610,"Chaguanas Proper, Trinidad and Tobago",,,,,
+11,Charlieville,Urban Community,7462,"Charlieville, Trinidad and Tobago","Charlieville, Chaguanas, 00000, Trinidad and Tobago","(10.5622706, -61.4137844, 0.0)",10.5622706,-61.4137844,0.0
+12,Edinburgh 500,Urban Community,8462,"Edinburgh 500, Trinidad and Tobago","Edinburgh Village, Chaguanas, 500125, Trinidad and Tobago","(10.5078428, -61.408341, 0.0)",10.5078428,-61.408341,0.0
+13,Edinburgh Gardens,Urban Community,937,"Edinburgh Gardens, Trinidad and Tobago","Edinburgh Gardens, Chaguanas, 500125, Trinidad and Tobago","(10.5058671, -61.3976949, 0.0)",10.5058671,-61.3976949,0.0
+14,Endeavour Village,Urban Community,4449,"Endeavour Village, Trinidad and Tobago","Endeavour, Chaguanas, 500125, Trinidad and Tobago","(10.5381714, -61.3991892, 0.0)",10.5381714,-61.3991892,0.0
+15,Enterprise,Urban Community,14434,"Enterprise, Trinidad and Tobago","Enterprise, Chaguanas, 00000, Trinidad and Tobago","(10.527102, -61.3854634, 0.0)",10.527102,-61.3854634,0.0
+16,Esmeralda,Urban Community,1972,"Esmeralda, Trinidad and Tobago","Esmeralda Recreation Ground, Enterprise, Endeavour, Chaguanas, Trinidad and Tobago","(10.535975149999999, -61.3815193886559, 0.0)",10.535975149999999,-61.3815193886559,0.0
+17,Felicity,Urban Community,7641,"Felicity, Trinidad and Tobago","Felicity, Chaguanas, 500125, Trinidad and Tobago","(10.5372747, -61.4325414, 0.0)",10.5372747,-61.4325414,0.0
+18,Homeland Gardens,Urban Community,1764,"Homeland Gardens, Trinidad and Tobago","Homeland Gardens, Endeavour, Chaguanas, 00000, Trinidad and Tobago","(10.5347961, -61.3819912, 0.0)",10.5347961,-61.3819912,0.0
+19,Jerningham Junction,Urban Community,4816,"Jerningham Junction, Trinidad and Tobago","Jerningham Junction, Egypt Trace, Endeavour, Chaguanas, 00000, Trinidad and Tobago","(10.5492203, -61.4011986, 0.0)",10.5492203,-61.4011986,0.0
+20,Lange Park,Urban Community,4042,"Lange Park, Trinidad and Tobago","Lange Park, Chaguanas, 500125, Trinidad and Tobago","(10.5235798, -61.4019168, 0.0)",10.5235798,-61.4019168,0.0
+21,Lendore Village,Urban Community,1809,"Lendore Village, Trinidad and Tobago","Lendore Hindu School, School Street, Homeland Gardens, Montrose, Chaguanas, 500125, Trinidad and Tobago","(10.52553915, -61.38579566217742, 0.0)",10.52553915,-61.38579566217742,0.0
+22,Longdenville [↑ partly also in Couva/Tabaquite/Talparo],Urban Community,11510,"Longdenville [↑ partly also in Couva/Tabaquite/Talparo], Trinidad and Tobago",,,,,
+23,Montrose Village,Urban Community,4298,"Montrose Village, Trinidad and Tobago","Montrose, Chaguanas, 500125, Trinidad and Tobago","(10.5192404, -61.399801, 0.0)",10.5192404,-61.399801,0.0
+24,Munroe Settlement,Urban Community,1646,"Munroe Settlement, Trinidad and Tobago","Warren Munroe Trace Extension, Warrensville, 00000, Trinidad and Tobago","(10.5764341, -61.3809252, 0.0)",10.5764341,-61.3809252,0.0
+25,Petersfield,Semi-Urban Community,1180,"Petersfield, Trinidad and Tobago","Petersfield Main Road, Chaguanas, 500125, Trinidad and Tobago","(10.5274061, -61.4288835, 0.0)",10.5274061,-61.4288835,0.0
+26,St. Charles Village,Urban Community,5320,"St. Charles Village, Trinidad and Tobago",,,,,
+27,St. Thomas Village,Urban Community,335,"St. Thomas Village, Trinidad and Tobago",,,,,
+28,Couva/Tabaquite/Talparo,Region,178410,"Couva/Tabaquite/Talparo, Trinidad and Tobago","Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4497669, -61.344388125853015, 0.0)",10.4497669,-61.344388125853015,0.0
+29,Agostini Village,Urban Community,2212,"Agostini Village, Trinidad and Tobago","Agostini Village Recreation Ground, Rio Claro, Rio Claro-Mayaro, Trinidad and Tobago","(10.31422585, -61.12891650639005, 0.0)",10.31422585,-61.12891650639005,0.0
+30,Arena,Rural Community,660,"Arena, Trinidad and Tobago","Arena Gardens, Freeport, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4601242, -61.388194126393344, 0.0)",10.4601242,-61.388194126393344,0.0
+31,Balmain,Urban Community,2367,"Balmain, Trinidad and Tobago","Balmain, Couva, Couva-Tabaquite-Talparo, 551421, Trinidad and Tobago","(10.4234208, -61.4295735, 0.0)",10.4234208,-61.4295735,0.0
+32,Basta Hall,Urban Community,1578,"Basta Hall, Trinidad and Tobago","Basta Hall Extension, Couva, Couva-Tabaquite-Talparo, 551421, Trinidad and Tobago","(10.4054494, -61.4334632, 0.0)",10.4054494,-61.4334632,0.0
+33,Bonne Aventure,Urban Community,4793,"Bonne Aventure, Trinidad and Tobago","Bonne Aventure, Gasparillo, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.3382349, -61.404081, 0.0)",10.3382349,-61.404081,0.0
+34,Brasso Caparo Village,Rural Community,310,"Brasso Caparo Village, Trinidad and Tobago","Caparo Valley Brasso Road, Caparo, Couva-Tabaquite-Talparo, 500125, Trinidad and Tobago","(10.4647933, -61.3299242, 0.0)",10.4647933,-61.3299242,0.0
+35,Brasso Manuel Junction,Rural Community,365,"Brasso Manuel Junction, Trinidad and Tobago",,,,,
+36,Brasso Tamana,Rural Community,252,"Brasso Tamana, Trinidad and Tobago","Brasso Tamana Road, Flanagin's Town, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4165255, -61.3138335, 0.0)",10.4165255,-61.3138335,0.0
+37,Brasso Venado,Rural Community,507,"Brasso Venado, Trinidad and Tobago","Brasso Venado, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4255421, -61.287403, 0.0)",10.4255421,-61.287403,0.0
+38,Brechin Castle,Semi-Urban Community,379,"Brechin Castle, Trinidad and Tobago","Brechin Castle (headquarters of Caroni Ltd.), Couva, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.409941700000001, -61.457010106530745, 0.0)",10.409941700000001,-61.457010106530745,0.0
+39,Brickfield,Semi-Urban Community,944,"Brickfield, Trinidad and Tobago","Brickfield, Couva-Tabaquite-Talparo, TT, Trinidad and Tobago","(10.4981089, -61.4676769, 0.0)",10.4981089,-61.4676769,0.0
+40,Brickfield/Navet,Rural Community,586,"Brickfield/Navet, Trinidad and Tobago",,,,,
+41,Brothers Road,Semi-Urban Community,1323,"Brothers Road, Trinidad and Tobago","Seeram Brothers Limited, Hampden, Canaan, Tobago, Trinidad and Tobago","(11.1530864, -60.81003711009167, 0.0)",11.1530864,-60.81003711009167,0.0
+42,Bucarro,Urban Community,2378,"Bucarro, Trinidad and Tobago",,,,,
+43,Butler Village,Semi-Urban Community,883,"Butler Village, Trinidad and Tobago","Uriah Butler Highway, Warrensville, 1868 723-0401, Trinidad and Tobago","(10.598277, -61.4221507, 0.0)",10.598277,-61.4221507,0.0
+44,Calcutta Road No. 2,Urban Community,1783,"Calcutta Road No. 2, Trinidad and Tobago","Calcutta Road No 2, Central Park, Couva, Couva-Tabaquite-Talparo, 551421, Trinidad and Tobago","(10.424011, -61.4260402, 0.0)",10.424011,-61.4260402,0.0
+45,Calcutta Settlement No. 2,Urban Community,637,"Calcutta Settlement No. 2, Trinidad and Tobago","Calcutta Settlement No 2, Couva, Couva-Tabaquite-Talparo, 1868, Trinidad and Tobago","(10.4548125, -61.4119437, 0.0)",10.4548125,-61.4119437,0.0
+46,California,Urban Community,3012,"California, Trinidad and Tobago","California, Couva, Couva-Tabaquite-Talparo, 551421, Trinidad and Tobago","(10.4084951, -61.4743826, 0.0)",10.4084951,-61.4743826,0.0
+47,Caparo,Semi-Urban Community,2979,"Caparo, Trinidad and Tobago","Caparo, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4587896, -61.3275601, 0.0)",10.4587896,-61.3275601,0.0
+48,Carapichaima,Urban Community,4465,"Carapichaima, Trinidad and Tobago","Carapichaima, Couva-Tabaquite-Talparo, 1868, Trinidad and Tobago","(10.4798397, -61.4492079, 0.0)",10.4798397,-61.4492079,0.0
+49,Caratal,Urban Community,501,"Caratal, Trinidad and Tobago","Caratal Road, Gasparillo, Couva-Tabaquite-Talparo, 602418, Trinidad and Tobago","(10.3216218, -61.4250193, 0.0)",10.3216218,-61.4250193,0.0
+50,Carlsen Field,Rural Community,4005,"Carlsen Field, Trinidad and Tobago","Carlsen Field, Ravine Sable, Couva-Tabaquite-Talparo, 500125, Trinidad and Tobago","(10.4929464, -61.3766139, 0.0)",10.4929464,-61.3766139,0.0
+51,Cedar Hill,Urban Community,1235,"Cedar Hill, Trinidad and Tobago","Cedar Hill Village Recreation Ground, Mount Stewart Village, Princes Town, Trinidad and Tobago","(10.267661, -61.40594062721738, 0.0)",10.267661,-61.40594062721738,0.0
+52,Chandernagore,Urban Community,2864,"Chandernagore, Trinidad and Tobago","Chandernagore Road, Edinburgh Gardens, Chaguanas, Couva-Tabaquite-Talparo, 500125, Trinidad and Tobago","(10.4932452, -61.4136367, 0.0)",10.4932452,-61.4136367,0.0
+53,Chase Village,Urban Community,4014,"Chase Village, Trinidad and Tobago","Chase Village, Chaguanas, Couva-Tabaquite-Talparo, 1868, Trinidad and Tobago","(10.4819524, -61.4169614, 0.0)",10.4819524,-61.4169614,0.0
+54,Chickland,Semi-Urban Community,2216,"Chickland, Trinidad and Tobago","Chickland Road, Caparo, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4560668, -61.3359916, 0.0)",10.4560668,-61.3359916,0.0
+55,Chin Chin,Urban Community,2051,"Chin Chin, Trinidad and Tobago","Chin Chin Road, Ravine Sable, Couva-Tabaquite-Talparo, 00000, Trinidad and Tobago","(10.5486389, -61.3463662, 0.0)",10.5486389,-61.3463662,0.0
+56,Claxton Bay,Urban Community,5679,"Claxton Bay, Trinidad and Tobago","Claxton Bay, Gasparillo, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.3534367, -61.4569401, 0.0)",10.3534367,-61.4569401,0.0
+57,Coalmine,Urban Community,562,"Coalmine, Trinidad and Tobago","Coalmine, Sangre Grande, 460626, Trinidad and Tobago","(10.5490481, -61.1304355, 0.0)",10.5490481,-61.1304355,0.0
+58,Corosal,Urban Community,1397,"Corosal, Trinidad and Tobago","Corosal Road, Whiteland, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.3541145, -61.3778524, 0.0)",10.3541145,-61.3778524,0.0
+59,Couva Central,Urban Community,3861,"Couva Central, Trinidad and Tobago","Couva, Couva-Tabaquite-Talparo, 551420, Trinidad and Tobago","(10.4223291, -61.458708, 0.0)",10.4223291,-61.458708,0.0
+60,Diamond,Urban Community,1047,"Diamond, Trinidad and Tobago","Diamond, Debe, Penal-Debe, -, Trinidad and Tobago","(10.2218061, -61.4409361, 0.0)",10.2218061,-61.4409361,0.0
+61,Dow Village,Urban Community,3639,"Dow Village, Trinidad and Tobago","Dow Village, Couva, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4013373, -61.4681038, 0.0)",10.4013373,-61.4681038,0.0
+62,Edinburgh Village,Urban Community,986,"Edinburgh Village, Trinidad and Tobago","Edinburgh Village, Chaguanas, 500125, Trinidad and Tobago","(10.5078428, -61.408341, 0.0)",10.5078428,-61.408341,0.0
+63,Esperanza,Urban Community,375,"Esperanza, Trinidad and Tobago","Esperanza Village, Couva, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.394667250000001, -61.45544412218575, 0.0)",10.394667250000001,-61.45544412218575,0.0
+64,Fairview,Urban Community,594,"Fairview, Trinidad and Tobago","Fairview Pk, Fairviewpark, Freeport, Couva-Tabaquite-Talparo, 1868, Trinidad and Tobago","(10.459648, -61.4148651, 0.0)",10.459648,-61.4148651,0.0
+65,Farnum Village,Rural Community,941,"Farnum Village, Trinidad and Tobago","Farnum Village, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.3457625, -61.3541899, 0.0)",10.3457625,-61.3541899,0.0
+66,Felicity Hall,Semi-Urban Community,556,"Felicity Hall, Trinidad and Tobago","Felicity Hall, Couva, Couva-Tabaquite-Talparo, 551420, Trinidad and Tobago","(10.4431759, -61.4662972, 0.0)",10.4431759,-61.4662972,0.0
+67,Flanagin Town,Urban Community,912,"Flanagin Town, Trinidad and Tobago","Flanagin Town, Flanagin's Town, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4271618, -61.3258179, 0.0)",10.4271618,-61.3258179,0.0
+68,Forres Park,Urban Community,1384,"Forres Park, Trinidad and Tobago","Forres Park Flyover, Macaulay, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.3660604, -61.4224799, 0.0)",10.3660604,-61.4224799,0.0
+69,Freeport,Urban Community,10608,"Freeport, Trinidad and Tobago","Freeport, Couva-Tabaquite-Talparo, 1868, Trinidad and Tobago","(10.4611229, -61.4116022, 0.0)",10.4611229,-61.4116022,0.0
+70,Friendship,Semi-Urban Community,216,"Friendship, Trinidad and Tobago","Friendship Hall Drive, Freeport, Couva-Tabaquite-Talparo, 1868, Trinidad and Tobago","(10.4673578, -61.4145134, 0.0)",10.4673578,-61.4145134,0.0
+71,Gasparillo,Urban Community,9925,"Gasparillo, Trinidad and Tobago","Gasparillo, Couva-Tabaquite-Talparo, 602418, Trinidad and Tobago","(10.3155603, -61.4287882, 0.0)",10.3155603,-61.4287882,0.0
+72,Gran Couva,Semi-Urban Community,1704,"Gran Couva, Trinidad and Tobago","Gran Couva Road, Preysal, Couva, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4098482, -61.4068614, 0.0)",10.4098482,-61.4068614,0.0
+73,Guaracara,Rural Community,429,"Guaracara, Trinidad and Tobago","Guaracara Tabaquite Road, San Fernando, 602418, Trinidad and Tobago","(10.3100498, -61.4331306, 0.0)",10.3100498,-61.4331306,0.0
+74,Hermitage,Urban Community,609,"Hermitage, Trinidad and Tobago","Hermitage, Charlotteville, Tobago, Trinidad and Tobago","(11.3186614, -60.5761199, 0.0)",11.3186614,-60.5761199,0.0
+75,Indian Trail,Semi-Urban Community,1071,"Indian Trail, Trinidad and Tobago","Indian Trail, Couva, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.3999884, -61.4160467, 0.0)",10.3999884,-61.4160467,0.0
+76,Las Lomas (Nos. 1 & 2),Semi-Urban Community,4441,"Las Lomas (Nos. 1 & 2), Trinidad and Tobago",,,,,
+77,Macaulay,Urban Community,2617,"Macaulay, Trinidad and Tobago","Macaulay, Gasparillo, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.3543118, -61.4325992, 0.0)",10.3543118,-61.4325992,0.0
+78,Madras Settlement,Urban Community,1943,"Madras Settlement, Trinidad and Tobago","Lot #9, masjid street, Santa Monica Trace, Couva-Tabaquite-Talparo, 0000, Trinidad and Tobago","(10.5721476, -61.3397064, 0.0)",10.5721476,-61.3397064,0.0
+79,Mamoral No. 2,Rural Community,1285,"Mamoral No. 2, Trinidad and Tobago","Mamoral, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4481215, -61.3053957, 0.0)",10.4481215,-61.3053957,0.0
+80,Mayo,Rural Community,1270,"Mayo, Trinidad and Tobago","Mayo Road Park, Indian Trail, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.3997554, -61.387198973176986, 0.0)",10.3997554,-61.387198973176986,0.0
+81,Mc Bean,Urban Community,4988,"Mc Bean, Trinidad and Tobago","Mc Bean, Couva, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.44417715, -61.44348997219639, 0.0)",10.44417715,-61.44348997219639,0.0
+82,Mount Pleasant,Urban Community,359,"Mount Pleasant, Trinidad and Tobago","Mount Pleasant, Scarborough, Tobago, Trinidad and Tobago","(11.1670196, -60.7929427, 0.0)",11.1670196,-60.7929427,0.0
+83,Mundo Nuevo,Rural Community,434,"Mundo Nuevo, Trinidad and Tobago","Mundo Nuevo Road, Talparo, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4973861, -61.2750229, 0.0)",10.4973861,-61.2750229,0.0
+84,Nancoo Village,Semi-Urban Community,1072,"Nancoo Village, Trinidad and Tobago","Nancoo Tr, Hermitage, Penal-Debe, -, Trinidad and Tobago","(10.2161058, -61.4830117, 0.0)",10.2161058,-61.4830117,0.0
+85,Orange Valley,Semi-Urban Community,1182,"Orange Valley, Trinidad and Tobago","Orange Valley, Couva, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4617911, -61.4747746, 0.0)",10.4617911,-61.4747746,0.0
+86,Ouplay Village,Urban Community,920,"Ouplay Village, Trinidad and Tobago",,,,,
+87,Palmiste,Semi-Urban Community,1448,"Palmiste, Trinidad and Tobago","Palmiste Recreation Ground, Ravine Sable, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.48997345, -61.35963171395136, 0.0)",10.48997345,-61.35963171395136,0.0
+88,Parforce,Urban Community,1034,"Parforce, Trinidad and Tobago","Parforce Street, Bonne Aventure, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.3292415, -61.4127516, 0.0)",10.3292415,-61.4127516,0.0
+89,Pepper Village,Semi-Urban Community,503,"Pepper Village, Trinidad and Tobago","Pepper Village, Erin, Siparia, Trinidad and Tobago","(10.0814421, -61.650167, 0.0)",10.0814421,-61.650167,0.0
+90,Phoenix Park,Urban Community,1701,"Phoenix Park, Trinidad and Tobago","Phoenix Park, Couva, Couva-Tabaquite-Talparo, 551420, Trinidad and Tobago","(10.3876199, -61.4608991, 0.0)",10.3876199,-61.4608991,0.0
+91,Piparo [↑ partly also in Princes Town],Semi-Urban Community,1249,"Piparo [↑ partly also in Princes Town], Trinidad and Tobago",,,,,
+92,Plaisance Park,Urban Community,1769,"Plaisance Park, Trinidad and Tobago","Plaisance Pk, Springland, Couva-Tabaquite-Talparo, VISTABELLA, Trinidad and Tobago","(10.3388532, -61.4584916, 0.0)",10.3388532,-61.4584916,0.0
+93,Point Lisas (NHA),Urban Community,2520,"Point Lisas (NHA), Trinidad and Tobago",,,,,
+94,Point Lisas (Plipdeco Housing) (incl. Point Lisas (Industrial Estate)),Urban Community,2840,"Point Lisas (Plipdeco Housing) (incl. Point Lisas (Industrial Estate)), Trinidad and Tobago",,,,,
+95,Poonah,Urban Community,1379,"Poonah, Trinidad and Tobago","Poonah, Gasparillo, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.3383826, -61.3914853, 0.0)",10.3383826,-61.3914853,0.0
+96,Preysal,Urban Community,4544,"Preysal, Trinidad and Tobago","Preysal, Couva, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.418089, -61.4066266, 0.0)",10.418089,-61.4066266,0.0
+97,Ravine Sable,Semi-Urban Community,696,"Ravine Sable, Trinidad and Tobago","Ravine Sable, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.5037711, -61.3557704, 0.0)",10.5037711,-61.3557704,0.0
+98,Riversdale,Urban Community,663,"Riversdale, Trinidad and Tobago",,,,,
+99,San Pedro [↑ partly also in Mayaro/Rio Claro],Semi-Urban Community,2931,"San Pedro [↑ partly also in Mayaro/Rio Claro], Trinidad and Tobago",,,,,
+100,San Raphael/Brazil,Semi-Urban Community,5383,"San Raphael/Brazil, Trinidad and Tobago",,,,,
+101,Springland/San Fabian,Urban Community,981,"Springland/San Fabian, Trinidad and Tobago",,,,,
+102,Spring Village,Urban Community,1120,"Spring Village, Trinidad and Tobago",Trinidad and Tobago,"(10.8677845, -60.9821067, 0.0)",10.8677845,-60.9821067,0.0
+103,Spring Village,Urban Community,1541,"Spring Village, Trinidad and Tobago",Trinidad and Tobago,"(10.8677845, -60.9821067, 0.0)",10.8677845,-60.9821067,0.0
+104,St. Andrew's Village,Urban Community,5250,"St. Andrew's Village, Trinidad and Tobago",,,,,
+105,St. Margaret,Urban Community,2335,"St. Margaret, Trinidad and Tobago","Princess Margaret Street, San Fernando, 1898, Trinidad and Tobago","(10.2674497, -61.4579992, 0.0)",10.2674497,-61.4579992,0.0
+106,St. Mary's Village,Urban Community,2240,"St. Mary's Village, Trinidad and Tobago","St. Mary's, Paria Main Road, Toco, Trinidad and Tobago","(10.8678055, -60.9820892, 0.0)",10.8678055,-60.9820892,0.0
+107,Sum Sum Hill,Urban Community,890,"Sum Sum Hill, Trinidad and Tobago","Sum Sum Hill, Soledad, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.3686017, -61.4432857, 0.0)",10.3686017,-61.4432857,0.0
+108,Tabaquite,Rural Community,3183,"Tabaquite, Trinidad and Tobago","Tabaquite, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.3791126, -61.3250075, 0.0)",10.3791126,-61.3250075,0.0
+109,Talparo,Semi-Urban Community,1661,"Talparo, Trinidad and Tobago","Talparo, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.5165839, -61.268998, 0.0)",10.5165839,-61.268998,0.0
+110,Tamana Road,Rural Community,225,"Tamana Road, Trinidad and Tobago","Tamana Road, Talparo, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.5125743, -61.2693581, 0.0)",10.5125743,-61.2693581,0.0
+111,Todd's Road,Semi-Urban Community,1741,"Todd's Road, Trinidad and Tobago","Todds Road, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4818654, -61.33157, 0.0)",10.4818654,-61.33157,0.0
+112,Todd's Station,Semi-Urban Community,731,"Todd's Station, Trinidad and Tobago","Todds Road, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4818654, -61.33157, 0.0)",10.4818654,-61.33157,0.0
+113,Tortuga,Rural Community,1013,"Tortuga, Trinidad and Tobago","Caratal Tortuga Road, Bonne Aventure, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.3518094, -61.4074032, 0.0)",10.3518094,-61.4074032,0.0
+114,Trintoc (Pointe-a-Pierre),Semi-Urban Community,460,"Trintoc (Pointe-a-Pierre), Trinidad and Tobago",,,,,
+115,Union Village,Urban Community,1209,"Union Village, Trinidad and Tobago","Union Village, La Brea, Siparia, Trinidad and Tobago","(10.2116164, -61.6329979, 0.0)",10.2116164,-61.6329979,0.0
+116,Warren Village,Semi-Urban Community,493,"Warren Village, Trinidad and Tobago","Warren Road Recreational Gorund, Warrensville, 00000, Trinidad and Tobago","(10.5779858, -61.3947744, 0.0)",10.5779858,-61.3947744,0.0
+117,Waterloo,Urban Community,774,"Waterloo, Trinidad and Tobago","Waterloo, Couva-Tabaquite-Talparo, 1868, Trinidad and Tobago","(10.4788605, -61.4674863, 0.0)",10.4788605,-61.4674863,0.0
+118,Welcome,Rural Community,2162,"Welcome, Trinidad and Tobago","Welcome Road, Ravine Sable, Couva-Tabaquite-Talparo, 00000, Trinidad and Tobago","(10.5286289, -61.3535689, 0.0)",10.5286289,-61.3535689,0.0
+119,White Land,Urban Community,699,"White Land, Trinidad and Tobago",,,,,
+120,Diego Martin,Region,102957,"Diego Martin, Trinidad and Tobago","Diego Martin, Port of Spain, 17005, Trinidad and Tobago","(10.7358489, -61.558498, 0.0)",10.7358489,-61.558498,0.0
+121,Alyce Glen,Urban Community,788,"Alyce Glen, Trinidad and Tobago","Alyce Glen, Federation Park, Port of Spain, Trinidad and Tobago","(10.69587685, -61.54951945368306, 0.0)",10.69587685,-61.54951945368306,0.0
+122,Bagatelle,Urban Community,5716,"Bagatelle, Trinidad and Tobago","Bagatelle Road, Barataria, San Juan, 120110, Trinidad and Tobago","(10.661947, -61.4539039, 0.0)",10.661947,-61.4539039,0.0
+123,Bayshore,Urban Community,508,"Bayshore, Trinidad and Tobago",,,,,
+124,Beau Pres,Urban Community,1166,"Beau Pres, Trinidad and Tobago","Beau Pres Road, Saint Ann's, Port of Spain, 17005, Trinidad and Tobago","(10.7190891, -61.516999, 0.0)",10.7190891,-61.516999,0.0
+125,Big Yard,Urban Community,929,"Big Yard, Trinidad and Tobago","Big Yard, Point Cumana, Trinidad and Tobago","(10.6842323, -61.5782257, 0.0)",10.6842323,-61.5782257,0.0
+126,Blue Basin,Urban Community,3447,"Blue Basin, Trinidad and Tobago","Blue Basin Road, Diego Martin, 17005, Trinidad and Tobago","(10.7373417, -61.5545805, 0.0)",10.7373417,-61.5545805,0.0
+127,Blue Range,Urban Community,922,"Blue Range, Trinidad and Tobago","Blue Waters Products Ltd. Witluv Farms, El Dorado, 686, Trinidad and Tobago","(10.6309121, -61.3740962, 0.0)",10.6309121,-61.3740962,0.0
+128,Boissiere,Urban Community,1248,"Boissiere, Trinidad and Tobago","Boissiere Village R.C. Primary School, 1, Harold Street, Ellerslie Park, Federation Park, Port of Spain, 190130, Trinidad and Tobago","(10.67682655, -61.520945358701084, 0.0)",10.67682655,-61.520945358701084,0.0
+129,Cameron Road,Rural Community,1028,"Cameron Road, Trinidad and Tobago","Cameron Road, Federation Park, Port of Spain, 17005, Trinidad and Tobago","(10.7164686, -61.5438546, 0.0)",10.7164686,-61.5438546,0.0
+130,Carenage,Urban Community,5625,"Carenage, Trinidad and Tobago","Carenage, Port of Spain, Trinidad and Tobago","(10.6881668, -61.5928155, 0.0)",10.6881668,-61.5928155,0.0
+131,Carrera Island,Islands,301,"Carrera Island, Trinidad and Tobago","Carrera Island, Port of Spain, Trinidad and Tobago","(10.6617681, -61.62370941626506, 0.0)",10.6617681,-61.62370941626506,0.0
+132,Chaguaramas,Semi-Urban Community,262,"Chaguaramas, Trinidad and Tobago","Chaguaramas, Port of Spain, Trinidad and Tobago","(10.6856952, -61.6356337, 0.0)",10.6856952,-61.6356337,0.0
+133,Champ Elysees,Urban Community,928,"Champ Elysees, Trinidad and Tobago",,,,,
+134,Covigne,Urban Community,3996,"Covigne, Trinidad and Tobago","Covigne Road, Diego Martin, 17005, Trinidad and Tobago","(10.7263565, -61.572538, 0.0)",10.7263565,-61.572538,0.0
+135,Diamond Vale,Urban Community,5388,"Diamond Vale, Trinidad and Tobago","Diamond, Debe, Penal-Debe, -, Trinidad and Tobago","(10.2218061, -61.4409361, 0.0)",10.2218061,-61.4409361,0.0
+136,Dibe/Belle Vue,Urban Community,3288,"Dibe/Belle Vue, Trinidad and Tobago",,,,,
+137,Diego Martin Proper,Urban Community,5967,"Diego Martin Proper, Trinidad and Tobago",,,,,
+138,Fairways,Urban Community,994,"Fairways, Trinidad and Tobago","Fairways Close, Ellerslie Park, Federation Park, Maraval, 190130, Trinidad and Tobago","(10.6949282, -61.5205782, 0.0)",10.6949282,-61.5205782,0.0
+139,Fort George,Urban Community,294,"Fort George, Trinidad and Tobago","Fort George, Scarborough, Tobago, Trinidad and Tobago","(11.1791156, -60.7265748, 0.0)",11.1791156,-60.7265748,0.0
+140,Four Roads,Urban Community,2293,"Four Roads, Trinidad and Tobago","Four Roads, Coral Gardens, Bon-Accord, Tobago, Trinidad and Tobago","(11.1561833, -60.8220323, 0.0)",11.1561833,-60.8220323,0.0
+141,Glencoe,Urban Community,718,"Glencoe, Trinidad and Tobago","Glencoe, Port of Spain, Trinidad and Tobago","(10.6811061, -61.5714852, 0.0)",10.6811061,-61.5714852,0.0
+142,Goodwood Gardens,Urban Community,1238,"Goodwood Gardens, Trinidad and Tobago","Goodwood Gardens, Federation Park, Port of Spain, 190130, Trinidad and Tobago","(10.6876011, -61.5591055, 0.0)",10.6876011,-61.5591055,0.0
+143,Green Hill Village,Urban Community,1759,"Green Hill Village, Trinidad and Tobago","Green Hill, Valley View, Acono, 310407, Trinidad and Tobago","(10.6960223, -61.3985219, 0.0)",10.6960223,-61.3985219,0.0
+144,Haleland Park/Moka,Urban Community,1227,"Haleland Park/Moka, Trinidad and Tobago",,,,,
+145,Industrial Estate,Urban Community,1097,"Industrial Estate, Trinidad and Tobago",,,,,
+146,La Horquette,Urban Community,725,"La Horquette, Trinidad and Tobago","La Horquette Branch Road, Federation Park, Glencoe, Trinidad and Tobago","(10.6829338, -61.5735452, 0.0)",10.6829338,-61.5735452,0.0
+147,L'Anse Mitan,Urban Community,1812,"L'Anse Mitan, Trinidad and Tobago","L'Anse Mitan, Point Cumana, Trinidad and Tobago","(10.6822747, -61.5782805, 0.0)",10.6822747,-61.5782805,0.0
+148,La Puerta,Urban Community,3891,"La Puerta, Trinidad and Tobago","La Puerta Avenue, Federation Park, Port of Spain, 190130, Trinidad and Tobago","(10.692599, -61.5567253, 0.0)",10.692599,-61.5567253,0.0
+149,La Seiva,Urban Community,1577,"La Seiva, Trinidad and Tobago","La Seiva, Saint Joseph, 310407, Trinidad and Tobago","(10.6770685, -61.4108155, 0.0)",10.6770685,-61.4108155,0.0
+150,Le Platte,Urban Community,1672,"Le Platte, Trinidad and Tobago",,,,,
+151,Maraval Proper,Urban Community,4646,"Maraval Proper, Trinidad and Tobago",,,,,
+152,North Post,Urban Community,425,"North Post, Trinidad and Tobago","North, La Baja, Barataria, Champ Fleurs, 12333, Trinidad and Tobago","(10.65202, -61.4245927, 0.0)",10.65202,-61.4245927,0.0
+153,Off-Shore Islands,Islands,50,"Off-Shore Islands, Trinidad and Tobago",,,,,
+154,Paramin,Rural Community,2524,"Paramin, Trinidad and Tobago","Paramin Hill, Port of Spain, 17005, Trinidad and Tobago","(10.7394957, -61.5221825, 0.0)",10.7394957,-61.5221825,0.0
+155,Patna Village,Urban Community,501,"Patna Village, Trinidad and Tobago","Patna Recreation Ground, Diego Martin, Trinidad and Tobago","(10.74165635, -61.55762278683943, 0.0)",10.74165635,-61.55762278683943,0.0
+156,Petit Valley,Urban Community,9405,"Petit Valley, Trinidad and Tobago","Petit Valley, Petit Valley Maxi-Taxi Waiting Lane, Downtown, Port of Spain, 150123, Trinidad and Tobago","(10.6479401, -61.5114831, 0.0)",10.6479401,-61.5114831,0.0
+157,Point Cumana,Urban Community,1822,"Point Cumana, Trinidad and Tobago","Point Cumana, Port of Spain, Trinidad and Tobago","(10.6831978, -61.5796234, 0.0)",10.6831978,-61.5796234,0.0
+158,Powder Magazine,Urban Community,1423,"Powder Magazine, Trinidad and Tobago","Powder Magazine, Federation Park, Cocorite, 190130, Trinidad and Tobago","(10.6808676, -61.55122, 0.0)",10.6808676,-61.55122,0.0
+159,Rich Plain,Urban Community,2874,"Rich Plain, Trinidad and Tobago",,,,,
+160,River Estate,Urban Community,1392,"River Estate, Trinidad and Tobago","River Estate Circular, Diego Martin, 17005, Trinidad and Tobago","(10.7406209, -61.5548232, 0.0)",10.7406209,-61.5548232,0.0
+161,Saut Deau,Urban Community,463,"Saut Deau, Trinidad and Tobago","Saut D'Eau Road, Saint Ann's, Port of Spain, 190130, Trinidad and Tobago","(10.7183249, -61.5137804, 0.0)",10.7183249,-61.5137804,0.0
+162,Simeon Road,Urban Community,2649,"Simeon Road, Trinidad and Tobago","Simeon Road, Federation Park, Port of Spain, 190130, Trinidad and Tobago","(10.6986826, -61.5471349, 0.0)",10.6986826,-61.5471349,0.0
+163,St. Lucien Road,Urban Community,2303,"St. Lucien Road, Trinidad and Tobago","St. Lucien Road, Federation Park, Port of Spain, 17005, Trinidad and Tobago","(10.7073286, -61.5538879, 0.0)",10.7073286,-61.5538879,0.0
+164,Upper St. James,Urban Community,3627,"Upper St. James, Trinidad and Tobago","St James, Fyzabad, Siparia, Trinidad and Tobago","(10.1946419, -61.5396018, 0.0)",10.1946419,-61.5396018,0.0
+165,Victoria Gardens,Urban Community,1134,"Victoria Gardens, Trinidad and Tobago","Trinidad y Tobago, Antonio Castillo, Durango, Municipio de Durango, Durango, 34237, México","(24.0158505, -104.5908744, 0.0)",24.0158505,-104.5908744,0.0
+166,Water Hole,Urban Community,3344,"Water Hole, Trinidad and Tobago","Stand pipe, Cocoa Road, Morvant, Port of Spain, N/A, Trinidad and Tobago","(10.6727954, -61.4782997, 0.0)",10.6727954,-61.4782997,0.0
+167,West Moorings,Urban Community,3519,"West Moorings, Trinidad and Tobago","The Moorings, Westmoorings by the Sea, Port of Spain, Trinidad and Tobago","(10.67468775, -61.561495227958574, 0.0)",10.67468775,-61.561495227958574,0.0
+168,Mayaro/Rio Claro,Region,35650,"Mayaro/Rio Claro, Trinidad and Tobago","Mayaro, Rio Claro-Mayaro, Trinidad and Tobago","(10.3027609, -61.0081263, 0.0)",10.3027609,-61.0081263,0.0
+169,Abysinia Village (Oilfield Area),Rural Community,41,"Abysinia Village (Oilfield Area), Trinidad and Tobago",,,,,
+170,Agostini Village,Semi-Urban Community,449,"Agostini Village, Trinidad and Tobago","Agostini Village Recreation Ground, Rio Claro, Rio Claro-Mayaro, Trinidad and Tobago","(10.31422585, -61.12891650639005, 0.0)",10.31422585,-61.12891650639005,0.0
+171,Biche [↑ partly also in Sangre Grande],Semi-Urban Community,2770,"Biche [↑ partly also in Sangre Grande], Trinidad and Tobago",,,,,
+172,Canque,Rural Community,334,"Canque, Trinidad and Tobago",,,,,
+173,Charuma Village,Rural Community,306,"Charuma Village, Trinidad and Tobago","Charuma, Rio Claro-Mayaro, Trinidad and Tobago","(10.4057552, -61.1515993, 0.0)",10.4057552,-61.1515993,0.0
+174,Cocal Estate/Mayaro,Rural Community,551,"Cocal Estate/Mayaro, Trinidad and Tobago",,,,,
+175,Cushe/Navet,Rural Community,1573,"Cushe/Navet, Trinidad and Tobago",,,,,
+176,Deep Ravine/Clear Water,Semi-Urban Community,529,"Deep Ravine/Clear Water, Trinidad and Tobago",,,,,
+177,Ecclesville,Rural Community,2063,"Ecclesville, Trinidad and Tobago","Ecclesville Settlement #1, Rio Claro, Rio Claro-Mayaro, Trinidad and Tobago","(10.3222048, -61.1490955, 0.0)",10.3222048,-61.1490955,0.0
+178,Fonrose Village,Semi-Urban Community,914,"Fonrose Village, Trinidad and Tobago","Fonrose Street, San Fernando, 1898, Trinidad and Tobago","(10.2762345, -61.4547528, 0.0)",10.2762345,-61.4547528,0.0
+179,Grand Lagoon,Rural Community,1242,"Grand Lagoon, Trinidad and Tobago","Lagoon Drive, La Brea, Siparia, Trinidad and Tobago","(10.2434173, -61.6127392, 0.0)",10.2434173,-61.6127392,0.0
+180,Guayaguayare,Semi-Urban Community,1541,"Guayaguayare, Trinidad and Tobago","Guayaguayare, Rio Claro-Mayaro, Trinidad and Tobago","(10.1468175, -61.0355387, 0.0)",10.1468175,-61.0355387,0.0
+181,La Savanne,Semi-Urban Community,1109,"La Savanne, Trinidad and Tobago","La Savanne Circular Street, Guayaguayare, Rio Claro-Mayaro, Trinidad and Tobago","(10.1663573, -61.0020465, 0.0)",10.1663573,-61.0020465,0.0
+182,Libertville,Urban Community,2997,"Libertville, Trinidad and Tobago","Libertville, Rio Claro-Mayaro, Trinidad and Tobago","(10.3039026, -61.1957142, 0.0)",10.3039026,-61.1957142,0.0
+183,Mafeking,Semi-Urban Community,1805,"Mafeking, Trinidad and Tobago","Mafeking Village Recreation Ground, Mayaro, Rio Claro-Mayaro, Trinidad and Tobago","(10.3037899, -61.0200168, 0.0)",10.3037899,-61.0200168,0.0
+184,Mainfield,Rural Community,1,"Mainfield, Trinidad and Tobago","Mainfield Road, Point Fortin, 700147, Trinidad and Tobago","(10.1720767, -61.6817324, 0.0)",10.1720767,-61.6817324,0.0
+185,Mayaro,Semi-Urban Community,2791,"Mayaro, Trinidad and Tobago","Mayaro, Rio Claro-Mayaro, Trinidad and Tobago","(10.3027609, -61.0081263, 0.0)",10.3027609,-61.0081263,0.0
+186,Mora Settlement,Semi-Urban Community,338,"Mora Settlement, Trinidad and Tobago",,,,,
+187,Navet Village,Rural Community,2035,"Navet Village, Trinidad and Tobago","Navet Road, San Fernando, 1898, Trinidad and Tobago","(10.2766267, -61.4529649, 0.0)",10.2766267,-61.4529649,0.0
+188,Ortoire,Rural Community,764,"Ortoire, Trinidad and Tobago","Ortoire River, Rio Claro-Mayaro, Trinidad and Tobago","(10.2893767, -61.0429171, 0.0)",10.2893767,-61.0429171,0.0
+189,Plaisance,Rural Community,935,"Plaisance, Trinidad and Tobago","Plaisance HDC, Mayaro, Rio Claro-Mayaro, Trinidad and Tobago","(10.293739299999999, -61.00114641127884, 0.0)",10.293739299999999,-61.00114641127884,0.0
+190,Poole,Rural Community,1542,"Poole, Trinidad and Tobago","Poole, Rio Claro-Mayaro, Trinidad and Tobago","(10.3013848, -61.2291371, 0.0)",10.3013848,-61.2291371,0.0
+191,Radix,Semi-Urban Community,1752,"Radix, Trinidad and Tobago","Point Radix, Mayaro, Rio Claro-Mayaro, Trinidad and Tobago","(10.3342354, -60.9756255, 0.0)",10.3342354,-60.9756255,0.0
+192,Rio Claro,Urban Community,3821,"Rio Claro, Trinidad and Tobago","Rio Claro, Rio Claro-Mayaro, Trinidad and Tobago","(10.3063646, -61.1750475, 0.0)",10.3063646,-61.1750475,0.0
+193,St. Joseph Village,Rural Community,445,"St. Joseph Village, Trinidad and Tobago","Saint Joseph Village, San Fernando, VISTABELLA, Trinidad and Tobago","(10.287982, -61.4491726, 0.0)",10.287982,-61.4491726,0.0
+194,Union Village,Rural Community,1977,"Union Village, Trinidad and Tobago","Union Village, La Brea, Siparia, Trinidad and Tobago","(10.2116164, -61.6329979, 0.0)",10.2116164,-61.6329979,0.0
+195,Penal/Debe,Region,89392,"Penal/Debe, Trinidad and Tobago","Penal-Debe, Trinidad and Tobago","(10.1649187, -61.428632498402294, 0.0)",10.1649187,-61.428632498402294,0.0
+196,Barrackpore [↑ partly also in Princes Town],Urban Community,14928,"Barrackpore [↑ partly also in Princes Town], Trinidad and Tobago",,,,,
+197,Batchyia Village,Urban Community,2198,"Batchyia Village, Trinidad and Tobago","Batchyia Trace, Penal, Penal-Debe, Trinidad and Tobago","(10.1735423, -61.4585137, 0.0)",10.1735423,-61.4585137,0.0
+198,Canaan Village/Palmiste,Urban Community,1027,"Canaan Village/Palmiste, Trinidad and Tobago",,,,,
+199,Charlo Village,Urban Community,2363,"Charlo Village, Trinidad and Tobago",,,,,
+200,Debe Proper,Urban Community,7084,"Debe Proper, Trinidad and Tobago",,,,,
+201,Diamond,Urban Community,1655,"Diamond, Trinidad and Tobago","Diamond, Debe, Penal-Debe, -, Trinidad and Tobago","(10.2218061, -61.4409361, 0.0)",10.2218061,-61.4409361,0.0
+202,Duncan Village,Urban Community,5333,"Duncan Village, Trinidad and Tobago","Duncan Village, Penal-Debe, 600301, Trinidad and Tobago","(10.2556494, -61.4616759, 0.0)",10.2556494,-61.4616759,0.0
+203,Esperance Village,Urban Community,1264,"Esperance Village, Trinidad and Tobago","Esperance, Debe, Penal-Debe, 1898, Trinidad and Tobago","(10.2447223, -61.4505286, 0.0)",10.2447223,-61.4505286,0.0
+204,Friendship [↑ partly also in Princes Town],Urban Community,2348,"Friendship [↑ partly also in Princes Town], Trinidad and Tobago",,,,,
+205,Golconda [↑ partly also in Princes Town],Urban Community,1914,"Golconda [↑ partly also in Princes Town], Trinidad and Tobago",,,,,
+206,Hermitage Village,Urban Community,2979,"Hermitage Village, Trinidad and Tobago","Hermitage, Charlotteville, Tobago, Trinidad and Tobago","(11.3186614, -60.5761199, 0.0)",11.3186614,-60.5761199,0.0
+207,La Fortune,Urban Community,1284,"La Fortune, Trinidad and Tobago","La Fortune, Morvant, Port of Spain, 120110, Trinidad and Tobago","(10.6711223, -61.4646677, 0.0)",10.6711223,-61.4646677,0.0
+208,La Romain,Urban Community,10129,"La Romain, Trinidad and Tobago","La Romain, Penal-Debe, -, Trinidad and Tobago","(10.2431793, -61.4927773, 0.0)",10.2431793,-61.4927773,0.0
+209,Lengua Village,Urban Community,576,"Lengua Village, Trinidad and Tobago","Lengua Village, Penal-Debe, Trinidad and Tobago","(10.2285212, -61.3804147, 0.0)",10.2285212,-61.3804147,0.0
+210,Mendez Village,Rural Community,1451,"Mendez Village, Trinidad and Tobago","Mendez Drive, La Baja, Barataria, Champ Fleurs, 310407, Trinidad and Tobago","(10.6571074, -61.4251855, 0.0)",10.6571074,-61.4251855,0.0
+211,Monkey Town,Semi-Urban Community,1316,"Monkey Town, Trinidad and Tobago","Monkey Town, Penal-Debe, Trinidad and Tobago","(10.2086287, -61.4205249, 0.0)",10.2086287,-61.4205249,0.0
+212,Morne Diablo,Rural Community,2536,"Morne Diablo, Trinidad and Tobago","Morne Diablo Road, Penal, Penal-Debe, Trinidad and Tobago","(10.1263449, -61.4457928, 0.0)",10.1263449,-61.4457928,0.0
+213,Palmiste,Urban Community,2713,"Palmiste, Trinidad and Tobago","Palmiste Recreation Ground, Ravine Sable, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.48997345, -61.35963171395136, 0.0)",10.48997345,-61.35963171395136,0.0
+214,Penal,Urban Community,13873,"Penal, Trinidad and Tobago","Penal, Penal-Debe, Trinidad and Tobago","(10.1684634, -61.4526506, 0.0)",10.1684634,-61.4526506,0.0
+215,Penal Quinam Beach Road,Rural Community,0,"Penal Quinam Beach Road, Trinidad and Tobago","Penal Quinam Road, Penal, Penal-Debe, Trinidad and Tobago","(10.1608326, -61.4684274, 0.0)",10.1608326,-61.4684274,0.0
+216,Penal Rock Road,Rural Community,4092,"Penal Rock Road, Trinidad and Tobago","Penal Rock Road, Penal, Penal-Debe, Trinidad and Tobago","(10.1685079, -61.4559583, 0.0)",10.1685079,-61.4559583,0.0
+217,Phillipines,Urban Community,1239,"Phillipines, Trinidad and Tobago","Phillipines, Debe, Penal-Debe, -, Trinidad and Tobago","(10.2447856, -61.4561398, 0.0)",10.2447856,-61.4561398,0.0
+218,Picton,Urban Community,2139,"Picton, Trinidad and Tobago","Picton, Arouca, Tunapuna, 686, Trinidad and Tobago","(10.6440764, -61.3854721, 0.0)",10.6440764,-61.3854721,0.0
+219,Rambert Village,Urban Community,1409,"Rambert Village, Trinidad and Tobago","Rambert Village, Penal-Debe, -, Trinidad and Tobago","(10.2482656, -61.4813057, 0.0)",10.2482656,-61.4813057,0.0
+220,Rochard Road,Urban Community,4104,"Rochard Road, Trinidad and Tobago","Rochard Road, Penal, Penal-Debe, Trinidad and Tobago","(10.1405136, -61.4177888, 0.0)",10.1405136,-61.4177888,0.0
+221,Scott Road Village,Rural Community,908,"Scott Road Village, Trinidad and Tobago",,,,,
+222,St. John's Village [↑ partly also in Princes Town],Urban Community,1651,"St. John's Village [↑ partly also in Princes Town], Trinidad and Tobago",,,,,
+223,Tulsa Village [↑ partly also in Siparia],Urban Community,1147,"Tulsa Village [↑ partly also in Siparia], Trinidad and Tobago",,,,,
+224,Wellington,Urban Community,1672,"Wellington, Trinidad and Tobago","Wellington, Debe, Penal-Debe, -, Trinidad and Tobago","(10.21631, -61.4499171, 0.0)",10.21631,-61.4499171,0.0
+225,Point Fortin,Borough,20235,"Point Fortin, Trinidad and Tobago","Point Fortin, Trinidad and Tobago","(10.1737672, -61.672388881539796, 0.0)",10.1737672,-61.672388881539796,0.0
+226,Cap-de-Ville [↑ partly also in Siparia],Semi-Urban Community,4942,"Cap-de-Ville [↑ partly also in Siparia], Trinidad and Tobago",,,,,
+227,Clifton Hill,Semi-Urban Community,216,"Clifton Hill, Trinidad and Tobago","Clifton Hill, John John, Port of Spain, 150123, Trinidad and Tobago","(10.6527634, -61.5015025, 0.0)",10.6527634,-61.5015025,0.0
+228,Egypt Village,Urban Community,2268,"Egypt Village, Trinidad and Tobago",,,,,
+229,Fanny Village,Urban Community,4255,"Fanny Village, Trinidad and Tobago","Fanny Village School  Road, Point Fortin, 700147, Trinidad and Tobago","(10.1645184, -61.6960813, 0.0)",10.1645184,-61.6960813,0.0
+230,Gonzales [↑ partly also in Siparia],Urban Community,2034,"Gonzales [↑ partly also in Siparia], Trinidad and Tobago",,,,,
+231,Hollywood,Urban Community,1493,"Hollywood, Trinidad and Tobago","Hollywood Boulevard, Ellerslie Park, Federation Park, Port of Spain, 190130, Trinidad and Tobago","(10.6603279, -61.5346959, 0.0)",10.6603279,-61.5346959,0.0
+232,Newlands,Urban Community,304,"Newlands, Trinidad and Tobago","Newlands Housing Scheme, Guayaguayare, Rio Claro-Mayaro, Trinidad and Tobago","(10.176611, -61.0015432, 0.0)",10.176611,-61.0015432,0.0
+233,New Village,Urban Community,1893,"New Village, Trinidad and Tobago","New Village, Point Fortin, 700147, Trinidad and Tobago","(10.1500489, -61.6808473, 0.0)",10.1500489,-61.6808473,0.0
+234,Point Fortin Proper,Urban Community,2319,"Point Fortin Proper, Trinidad and Tobago",,,,,
+235,Point Ligoure,Urban Community,1385,"Point Ligoure, Trinidad and Tobago","Point Ligoure Community Park, Point Fortin, Trinidad and Tobago","(10.1712116, -61.69195793912005, 0.0)",10.1712116,-61.69195793912005,0.0
+236,Techier Village,Urban Community,1632,"Techier Village, Trinidad and Tobago","Techier Community Center, 1st Street, Point Fortin, 700147, Trinidad and Tobago","(10.1697109, -61.67055230626437, 0.0)",10.1697109,-61.67055230626437,0.0
+237,Port of Spain,City,37074,"Port of Spain, Trinidad and Tobago","Port of Spain, 150123, Trinidad and Tobago","(10.6572678, -61.5180173, 0.0)",10.6572678,-61.5180173,0.0
+238,Belmont,Urban Community,9035,"Belmont, Trinidad and Tobago","Belmont, Port of Spain, 000, Trinidad and Tobago","(10.6685371, -61.507102, 0.0)",10.6685371,-61.507102,0.0
+239,Cocorite,Urban Community,1705,"Cocorite, Trinidad and Tobago","Cocorite, Port of Spain, 190130, Trinidad and Tobago","(10.6801341, -61.5452318, 0.0)",10.6801341,-61.5452318,0.0
+240,East Port of Spain,Urban Community,9087,"East Port of Spain, Trinidad and Tobago","Port of Spain, 150123, Trinidad and Tobago","(10.6572678, -61.5180173, 0.0)",10.6572678,-61.5180173,0.0
+241,Ellerslie Park,Urban Community,277,"Ellerslie Park, Trinidad and Tobago","Ellerslie Park, Federation Park, Port of Spain, 190130, Trinidad and Tobago","(10.6777765, -61.5246773, 0.0)",10.6777765,-61.5246773,0.0
+242,Federation Park,Urban Community,295,"Federation Park, Trinidad and Tobago","Federation Park, Port of Spain, 190130, Trinidad and Tobago","(10.6757042, -61.5262776, 0.0)",10.6757042,-61.5262776,0.0
+243,Gonzales,Urban Community,1892,"Gonzales, Trinidad and Tobago","Gonzales Circle, John John, Port of Spain, 000, Trinidad and Tobago","(10.6593559, -61.4987156, 0.0)",10.6593559,-61.4987156,0.0
+244,Long Circular,Urban Community,281,"Long Circular, Trinidad and Tobago","Circular Courts, San Fernando, Trinidad and Tobago","(10.2850204, -61.453054173376515, 0.0)",10.2850204,-61.453054173376515,0.0
+245,Newtown,Urban Community,524,"Newtown, Trinidad and Tobago","Newtown Trace, Basseterre, Princes Town, Trinidad and Tobago","(10.1289327, -61.2824898, 0.0)",10.1289327,-61.2824898,0.0
+246,Port of Spain Port Area,Semi-Urban Community,3,"Port of Spain Port Area, Trinidad and Tobago","Port of Spain, 150123, Trinidad and Tobago","(10.6572678, -61.5180173, 0.0)",10.6572678,-61.5180173,0.0
+247,Port of Spain Proper,Urban Community,2758,"Port of Spain Proper, Trinidad and Tobago",,,,,
+248,Sealots,Urban Community,1259,"Sealots, Trinidad and Tobago",,,,,
+249,St. Clair,Urban Community,205,"St. Clair, Trinidad and Tobago","St. Clair Avenue, Ellerslie Park, Federation Park, Port of Spain, 190130, Trinidad and Tobago","(10.6683236, -61.5264819, 0.0)",10.6683236,-61.5264819,0.0
+250,St. James,Urban Community,5985,"St. James, Trinidad and Tobago","St James, Fyzabad, Siparia, Trinidad and Tobago","(10.1946419, -61.5396018, 0.0)",10.1946419,-61.5396018,0.0
+251,Woodbrook,Urban Community,3382,"Woodbrook, Trinidad and Tobago","One Woodbrook Place, 189, Federation Park, Port of Spain, Trinidad and Tobago","(10.66785835, -61.52817493354965, 0.0)",10.66785835,-61.52817493354965,0.0
+252,Princes Town,Region,102375,"Princes Town, Trinidad and Tobago","Princes Town, Trinidad and Tobago","(10.20480035, -61.28061860703701, 0.0)",10.20480035,-61.28061860703701,0.0
+253,Basse Terre,Rural Community,3187,"Basse Terre, Trinidad and Tobago",,,,,
+254,Ben Lomond,Urban Community,1488,"Ben Lomond, Trinidad and Tobago","Lomond, Saint Ann's, Maraval, 190130, Trinidad and Tobago","(10.6992291, -61.51717, 0.0)",10.6992291,-61.51717,0.0
+255,Bon Jean,Rural Community,351,"Bon Jean, Trinidad and Tobago","Bon-Accord, Crown Point, Tobago, Trinidad and Tobago","(11.1549603, -60.82448, 0.0)",11.1549603,-60.82448,0.0
+256,Borde Narve [↑ partly also in Penal/Debe],Urban Community,2277,"Borde Narve [↑ partly also in Penal/Debe], Trinidad and Tobago",,,,,
+257,Broomage,Urban Community,1259,"Broomage, Trinidad and Tobago","Broomage Road, Princes Town, Trinidad and Tobago","(10.2658144, -61.3621452, 0.0)",10.2658144,-61.3621452,0.0
+258,Brothers Settlement,Semi-Urban Community,376,"Brothers Settlement, Trinidad and Tobago","Brother's Settlement Road, WilliamsVille, Princes Town, Trinidad and Tobago","(10.3130219, -61.3573229, 0.0)",10.3130219,-61.3573229,0.0
+259,Buen Intento,Urban Community,911,"Buen Intento, Trinidad and Tobago","Buen Intento 2nd Branch Road, Princes Town, Trinidad and Tobago","(10.2774717, -61.3703143, 0.0)",10.2774717,-61.3703143,0.0
+260,Canaree,Rural Community,0,"Canaree, Trinidad and Tobago",,,,,
+261,Cedar Hill,Urban Community,2071,"Cedar Hill, Trinidad and Tobago","Cedar Hill Village Recreation Ground, Mount Stewart Village, Princes Town, Trinidad and Tobago","(10.267661, -61.40594062721738, 0.0)",10.267661,-61.40594062721738,0.0
+262,Cleghorn and Mt. Pleasant,Urban Community,661,"Cleghorn and Mt. Pleasant, Trinidad and Tobago",,,,,
+263,Corinth,Urban Community,1911,"Corinth, Trinidad and Tobago","Corinth, Princes Town, 602418, Trinidad and Tobago","(10.266334, -61.439728, 0.0)",10.266334,-61.439728,0.0
+264,Coryal Village,Urban Community,1835,"Coryal Village, Trinidad and Tobago","Coryal, Port of Spain, Trinidad and Tobago","(10.5109621, -61.1853888, 0.0)",10.5109621,-61.1853888,0.0
+265,Dyers Village,Semi-Urban Community,635,"Dyers Village, Trinidad and Tobago",,,,,
+266,Eccles Village [↑ partly also in Couva/Tabaquite/Talparo],Urban Community,1820,"Eccles Village [↑ partly also in Couva/Tabaquite/Talparo], Trinidad and Tobago",,,,,
+267,Fifth Company,Urban Community,1454,"Fifth Company, Trinidad and Tobago","Fifth, Sunrise Park, Arouca, Five Rivers, 1 868-681-2822, Trinidad and Tobago","(10.6420275, -61.3478159, 0.0)",10.6420275,-61.3478159,0.0
+268,George Village,Semi-Urban Community,3776,"George Village, Trinidad and Tobago","Mount Saint George, Scarborough, Tobago, Trinidad and Tobago","(11.1936976, -60.6787091, 0.0)",11.1936976,-60.6787091,0.0
+269,Hard Bargain,Rural Community,369,"Hard Bargain, Trinidad and Tobago",,,,,
+270,Harmony Hall,Urban Community,2015,"Harmony Hall, Trinidad and Tobago","Harmony Hall, Princes Town, 602418, Trinidad and Tobago","(10.3121399, -61.4283882, 0.0)",10.3121399,-61.4283882,0.0
+271,Hindustan,Rural Community,824,"Hindustan, Trinidad and Tobago","Hindustan Junction Road, New Grant, Princes Town, Trinidad and Tobago","(10.2761412, -61.3063409, 0.0)",10.2761412,-61.3063409,0.0
+272,Iere Village,Urban Community,2518,"Iere Village, Trinidad and Tobago","Iere Village, Princes Town, 602418, Trinidad and Tobago","(10.291987, -61.3853571, 0.0)",10.291987,-61.3853571,0.0
+273,Indian Walk,Urban Community,5995,"Indian Walk, Trinidad and Tobago","Indian Walk, New Grant, Princes Town, Trinidad and Tobago","(10.2508203, -61.3364498, 0.0)",10.2508203,-61.3364498,0.0
+274,Jordan Village,Urban Community,467,"Jordan Village, Trinidad and Tobago",,,,,
+275,Kumar Village,Urban Community,842,"Kumar Village, Trinidad and Tobago","Kumar Avenue, Iere Village, Princes Town, Trinidad and Tobago","(10.2924352, -61.3767101, 0.0)",10.2924352,-61.3767101,0.0
+276,La Lune,Rural Community,1246,"La Lune, Trinidad and Tobago","La Lune, Moruga, Princes Town, Trinidad and Tobago","(10.0869555, -61.2970837, 0.0)",10.0869555,-61.2970837,0.0
+277,La Ruffin,Rural Community,648,"La Ruffin, Trinidad and Tobago",,,,,
+278,La Savanne,Rural Community,787,"La Savanne, Trinidad and Tobago","La Savanne Circular Street, Guayaguayare, Rio Claro-Mayaro, Trinidad and Tobago","(10.1663573, -61.0020465, 0.0)",10.1663573,-61.0020465,0.0
+279,Lengua Village/Barrackpore,Urban Community,1961,"Lengua Village/Barrackpore, Trinidad and Tobago","Lengua Village, Penal-Debe, Trinidad and Tobago","(10.2285212, -61.3804147, 0.0)",10.2285212,-61.3804147,0.0
+280,Lothian,Urban Community,933,"Lothian, Trinidad and Tobago","Lothian Gardens, Princes Town, Trinidad and Tobago","(10.2740695, -61.3724168, 0.0)",10.2740695,-61.3724168,0.0
+281,Malgretoute,Urban Community,2910,"Malgretoute, Trinidad and Tobago","Malgretoute Road, Princes Town, 602418, Trinidad and Tobago","(10.2692728, -61.3872781, 0.0)",10.2692728,-61.3872781,0.0
+282,Marac,Rural Community,367,"Marac, Trinidad and Tobago",,,,,
+283,Matilda,Urban Community,1433,"Matilda, Trinidad and Tobago","Matilda Road, Princes Town, Trinidad and Tobago","(10.2663995, -61.3490159, 0.0)",10.2663995,-61.3490159,0.0
+284,Moruga Village,Rural Community,316,"Moruga Village, Trinidad and Tobago","Moruga, Princes Town, Trinidad and Tobago","(10.0886548, -61.2799658, 0.0)",10.0886548,-61.2799658,0.0
+285,New Grant,Urban Community,5263,"New Grant, Trinidad and Tobago","New Grant, Princes Town, Trinidad and Tobago","(10.2834646, -61.3211265, 0.0)",10.2834646,-61.3211265,0.0
+286,Palmyra,Urban Community,3021,"Palmyra, Trinidad and Tobago","Palmyra Village, Princes Town, 602418, Trinidad and Tobago","(10.2854587, -61.4236161, 0.0)",10.2854587,-61.4236161,0.0
+287,Palmyra Village/Mt. Stewa,Urban Community,924,"Palmyra Village/Mt. Stewa, Trinidad and Tobago",,,,,
+288,Petit Café,Urban Community,443,"Petit Café, Trinidad and Tobago","Petit Cafe, New Grant, Princes Town, Trinidad and Tobago","(10.2697337, -61.3392075, 0.0)",10.2697337,-61.3392075,0.0
+289,Petit Morne,Urban Community,681,"Petit Morne, Trinidad and Tobago","Petit Valley Girls RC School, Morne Coco Road, Federation Park, Port of Spain, 17005, Trinidad and Tobago","(10.70988565, -61.54682727145868, 0.0)",10.70988565,-61.54682727145868,0.0
+290,Princes Town Proper,Urban Community,9233,"Princes Town Proper, Trinidad and Tobago",,,,,
+291,Reform Village,Urban Community,1009,"Reform Village, Trinidad and Tobago","Reform, Princes Town, 602418, Trinidad and Tobago","(10.3069096, -61.4150147, 0.0)",10.3069096,-61.4150147,0.0
+292,Robert Village,Semi-Urban Community,831,"Robert Village, Trinidad and Tobago","Robert Street, Warrensville, Kelly Village, 00000, Trinidad and Tobago","(10.5782185, -61.3780243, 0.0)",10.5782185,-61.3780243,0.0
+293,Sisters Village,Urban Community,4254,"Sisters Village, Trinidad and Tobago","Sisters, Trinidad and Tobago","(11.332574, -60.6444479, 0.0)",11.332574,-60.6444479,0.0
+294,Sixth Company,Urban Community,3443,"Sixth Company, Trinidad and Tobago","Sixth, Sunrise Park, Arouca, Five Rivers, 1 868-681-2822, Trinidad and Tobago","(10.6426431, -61.3472419, 0.0)",10.6426431,-61.3472419,0.0
+295,St. Charles Village,Urban Community,1130,"St. Charles Village, Trinidad and Tobago",,,,,
+296,St. Clements,Urban Community,297,"St. Clements, Trinidad and Tobago",,,,,
+297,St. Croix Village [↑ partly also in Penal/Debe],Urban Community,5424,"St. Croix Village [↑ partly also in Penal/Debe], Trinidad and Tobago",,,,,
+298,Ste. Madeleine,Urban Community,2450,"Ste. Madeleine, Trinidad and Tobago","Sainte Madeleine, Princes Town, 602418, Trinidad and Tobago","(10.2713757, -61.4318642, 0.0)",10.2713757,-61.4318642,0.0
+299,St. Julien,Urban Community,1580,"St. Julien, Trinidad and Tobago","Julien Street, Point Fortin, 700147, Trinidad and Tobago","(10.1513807, -61.6786733, 0.0)",10.1513807,-61.6786733,0.0
+300,St. Mary's Village,Rural Community,6242,"St. Mary's Village, Trinidad and Tobago","St. Mary's, Paria Main Road, Toco, Trinidad and Tobago","(10.8678055, -60.9820892, 0.0)",10.8678055,-60.9820892,0.0
+301,Tableland,Semi-Urban Community,620,"Tableland, Trinidad and Tobago","Tableland, Princes Town, Trinidad and Tobago","(10.2777579, -61.2575091, 0.0)",10.2777579,-61.2575091,0.0
+302,Usine Ste. Madeleine,Semi-Urban Community,495,"Usine Ste. Madeleine, Trinidad and Tobago","Usine Golf Course, Sainte Madeleine, Princes Town, Trinidad and Tobago","(10.259002800000001, -61.42043962035834, 0.0)",10.259002800000001,-61.42043962035834,0.0
+303,San Fernando,City,48838,"San Fernando, Trinidad and Tobago","San Fernando, Trinidad and Tobago","(10.280212500000001, -61.45415040573309, 0.0)",10.280212500000001,-61.45415040573309,0.0
+304,Broadway,Urban Community,441,"Broadway, Trinidad and Tobago","Broadway, Downtown, Port of Spain, 150123, Trinidad and Tobago","(10.6476587, -61.5095195, 0.0)",10.6476587,-61.5095195,0.0
+305,City Proper,Urban Community,1933,"City Proper, Trinidad and Tobago",,,,,
+306,Cocoyea Village,Urban Community,4427,"Cocoyea Village, Trinidad and Tobago","Mon Repos - Cocoyea Roundabout, Mon Repos, San Fernando, Trinidad and Tobago","(10.280162350000001, -61.44764060526275, 0.0)",10.280162350000001,-61.44764060526275,0.0
+307,Embacadere,Urban Community,1536,"Embacadere, Trinidad and Tobago",,,,,
+308,Green Acres,Urban Community,709,"Green Acres, Trinidad and Tobago","Green Acres, Sangre Grande, 450626, Trinidad and Tobago","(10.599792, -61.1211066, 0.0)",10.599792,-61.1211066,0.0
+309,Gulf View,Urban Community,2576,"Gulf View, Trinidad and Tobago","Gulf View, San Fernando, 600301, Trinidad and Tobago","(10.2587429, -61.4771189, 0.0)",10.2587429,-61.4771189,0.0
+310,Les Efforts East,Urban Community,845,"Les Efforts East, Trinidad and Tobago",,,,,
+311,Les Efforts West,Urban Community,1587,"Les Efforts West, Trinidad and Tobago",,,,,
+312,Lower Hill Side,Urban Community,1089,"Lower Hill Side, Trinidad and Tobago",,,,,
+313,Marabella,Urban Community,9810,"Marabella, Trinidad and Tobago","Marabella, San Fernando, VISTABELLA, Trinidad and Tobago","(10.3073477, -61.4518649, 0.0)",10.3073477,-61.4518649,0.0
+314,Maraj Lands,Urban Community,972,"Maraj Lands, Trinidad and Tobago",,,,,
+315,Mon Repos,Urban Community,1920,"Mon Repos, Trinidad and Tobago","Mon Repos, San Fernando, VISTABELLA, Trinidad and Tobago","(10.2832527, -61.4500825, 0.0)",10.2832527,-61.4500825,0.0
+316,Navet Village,Urban Community,239,"Navet Village, Trinidad and Tobago","Navet Road, San Fernando, 1898, Trinidad and Tobago","(10.2766267, -61.4529649, 0.0)",10.2766267,-61.4529649,0.0
+317,Paradise,Urban Community,1582,"Paradise, Trinidad and Tobago","Paradise, Trincity Mall, Sunrise Park, Arouca, Trincity, 350509, Trinidad and Tobago","(10.6269648, -61.3542334, 0.0)",10.6269648,-61.3542334,0.0
+318,Pleasantville,Urban Community,6717,"Pleasantville, Trinidad and Tobago","Pleasantville, San Fernando, 1898, Trinidad and Tobago","(10.2711006, -61.4479818, 0.0)",10.2711006,-61.4479818,0.0
+319,St. Joseph Village,Urban Community,1751,"St. Joseph Village, Trinidad and Tobago","Saint Joseph Village, San Fernando, VISTABELLA, Trinidad and Tobago","(10.287982, -61.4491726, 0.0)",10.287982,-61.4491726,0.0
+320,Tarouba,Urban Community,2583,"Tarouba, Trinidad and Tobago","Tarouba, San Fernando, Trinidad and Tobago","(10.294117499999999, -61.440096777776006, 0.0)",10.294117499999999,-61.440096777776006,0.0
+321,Union Park,Urban Community,2698,"Union Park, Trinidad and Tobago","Union Park, Gopaul Lands, San Fernando, VISTABELLA, Trinidad and Tobago","(10.3011182, -61.4402726, 0.0)",10.3011182,-61.4402726,0.0
+322,Union Village,Semi-Urban Community,509,"Union Village, Trinidad and Tobago","Union Village, La Brea, Siparia, Trinidad and Tobago","(10.2116164, -61.6329979, 0.0)",10.2116164,-61.6329979,0.0
+323,Victoria Village,Urban Community,427,"Victoria Village, Trinidad and Tobago","Trinidad y Tobago, Antonio Castillo, Durango, Municipio de Durango, Durango, 34237, México","(24.0158505, -104.5908744, 0.0)",24.0158505,-104.5908744,0.0
+324,Vistabella,Urban Community,4442,"Vistabella, Trinidad and Tobago","Vistabella, San Fernando, VISTABELLA, Trinidad and Tobago","(10.2907569, -61.4547059, 0.0)",10.2907569,-61.4547059,0.0
+325,Sangre Grande,Region,75766,"Sangre Grande, Trinidad and Tobago","Sangre Grande, Port of Spain, 450626, Trinidad and Tobago","(10.5869196, -61.1284394, 0.0)",10.5869196,-61.1284394,0.0
+326,Anglais Settlement,Rural Community,379,"Anglais Settlement, Trinidad and Tobago",,,,,
+327,Balandra,Rural Community,122,"Balandra, Trinidad and Tobago","Balandra, Balandra Depot Road, Rampanalgas, Trinidad and Tobago","(10.7215357, -60.9873461, 0.0)",10.7215357,-60.9873461,0.0
+328,Brooklyn Settlement,Rural Community,280,"Brooklyn Settlement, Trinidad and Tobago",,,,,
+329,Caigual,Rural Community,630,"Caigual, Trinidad and Tobago","Caigual Road, Lower Fishing Pond, Trinidad and Tobago","(10.5545351, -61.0613971, 0.0)",10.5545351,-61.0613971,0.0
+330,Carmichael,Semi-Urban Community,114,"Carmichael, Trinidad and Tobago","Carmichael Village Trace, Coryal, Trinidad and Tobago","(10.4984993, -61.1971049, 0.0)",10.4984993,-61.1971049,0.0
+331,Coal Mine,Semi-Urban Community,2207,"Coal Mine, Trinidad and Tobago",,,,,
+332,Coryal,Rural Community,1045,"Coryal, Trinidad and Tobago","Coryal, Port of Spain, Trinidad and Tobago","(10.5109621, -61.1853888, 0.0)",10.5109621,-61.1853888,0.0
+333,Cumaca,Rural Community,56,"Cumaca, Trinidad and Tobago","Cumaca, Port of Spain, Trinidad and Tobago","(10.7132736, -61.1474666, 0.0)",10.7132736,-61.1474666,0.0
+334,Cumana,Rural Community,1118,"Cumana, Trinidad and Tobago","Cumana, Toco, Trinidad and Tobago","(10.7967324, -60.9445038, 0.0)",10.7967324,-60.9445038,0.0
+335,Cumuto,Semi-Urban Community,3623,"Cumuto, Trinidad and Tobago","Camp Cumuto, Valencia, Trinidad and Tobago","(10.635003099999999, -61.209909561258456, 0.0)",10.635003099999999,-61.209909561258456,0.0
+336,Cunaripo,Urban Community,2338,"Cunaripo, Trinidad and Tobago",,,,,
+337,Fishing Pond,Semi-Urban Community,3058,"Fishing Pond, Trinidad and Tobago","Lower Fishing Pond, Port of Spain, Trinidad and Tobago","(10.5727516, -61.0477902, 0.0)",10.5727516,-61.0477902,0.0
+338,Four Roads - Tamana,Semi-Urban Community,658,"Four Roads - Tamana, Trinidad and Tobago","Four Roads Tamana, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4875465, -61.2149975, 0.0)",10.4875465,-61.2149975,0.0
+339,Grand Riviere,Rural Community,392,"Grand Riviere, Trinidad and Tobago","Grand Riviere, Paria Main Road, Toco, Trinidad and Tobago","(10.8282776, -61.04900039966034, 0.0)",10.8282776,-61.04900039966034,0.0
+340,Guaico,Urban Community,3058,"Guaico, Trinidad and Tobago","Guaico, Sangre Grande, 450626, Trinidad and Tobago","(10.5862822, -61.1446012, 0.0)",10.5862822,-61.1446012,0.0
+341,Guatopajaro,Rural Community,375,"Guatopajaro, Trinidad and Tobago",,,,,
+342,Howsen Village,Semi-Urban Community,408,"Howsen Village, Trinidad and Tobago","Howsen Village Street, Coryal, Trinidad and Tobago","(10.5258821, -61.1798251, 0.0)",10.5258821,-61.1798251,0.0
+343,L'Anse Noir,Rural Community,347,"L'Anse Noir, Trinidad and Tobago",,,,,
+344,Mahoe,Rural Community,80,"Mahoe, Trinidad and Tobago","Mahoe Boulevard, The Crossings, Santa Rosa, Arima, 300831, Trinidad and Tobago","(10.6156771, -61.2668498, 0.0)",10.6156771,-61.2668498,0.0
+345,Manzanilla,Semi-Urban Community,2279,"Manzanilla, Trinidad and Tobago","Manzanilla, Port of Spain, Trinidad and Tobago","(10.5274269, -61.0635154, 0.0)",10.5274269,-61.0635154,0.0
+346,Maraj Hill,Urban Community,2300,"Maraj Hill, Trinidad and Tobago","Maraj, Tunapuna, 686, Trinidad and Tobago","(10.6410502, -61.3914422, 0.0)",10.6410502,-61.3914422,0.0
+347,Matelot,Rural Community,553,"Matelot, Trinidad and Tobago","Matelot, Port of Spain, Trinidad and Tobago","(10.820391, -61.12687, 0.0)",10.820391,-61.12687,0.0
+348,Matura,Rural Community,1772,"Matura, Trinidad and Tobago","Matura, Port of Spain, Trinidad and Tobago","(10.6635959, -61.0744581, 0.0)",10.6635959,-61.0744581,0.0
+349,Melajo,Rural Community,768,"Melajo, Trinidad and Tobago","Melajo Street, Lower Fishing Pond, Trinidad and Tobago","(10.6121968, -61.0721273, 0.0)",10.6121968,-61.0721273,0.0
+350,Mission,Rural Community,289,"Mission, Trinidad and Tobago","Mission, Toco, Trinidad and Tobago","(10.8342628, -60.9673267, 0.0)",10.8342628,-60.9673267,0.0
+351,Monte Video,Rural Community,148,"Monte Video, Trinidad and Tobago",,,,,
+352,Morin Bay,Rural Community,382,"Morin Bay, Trinidad and Tobago",,,,,
+353,North Manzanilla,Rural Community,286,"North Manzanilla, Trinidad and Tobago","Manzanilla, Port of Spain, Trinidad and Tobago","(10.5274269, -61.0635154, 0.0)",10.5274269,-61.0635154,0.0
+354,Oropouche,Rural Community,2157,"Oropouche, Trinidad and Tobago","Oropouche, Siparia, Trinidad and Tobago","(10.2170017, -61.5432008, 0.0)",10.2170017,-61.5432008,0.0
+355,Plum Mitan,Rural Community,1471,"Plum Mitan, Trinidad and Tobago","Plum Mitan, Port of Spain, Trinidad and Tobago","(10.4609759, -61.0947945, 0.0)",10.4609759,-61.0947945,0.0
+356,Rampanalgas,Rural Community,403,"Rampanalgas, Trinidad and Tobago","Rampanalgas, Port of Spain, Trinidad and Tobago","(10.7315526, -60.9842123, 0.0)",10.7315526,-60.9842123,0.0
+357,Salybia Village,Rural Community,246,"Salybia Village, Trinidad and Tobago","Salybia, Port of Spain, Trinidad and Tobago","(10.704133, -61.027046, 0.0)",10.704133,-61.027046,0.0
+358,Sangre Chiquito,Urban Community,3421,"Sangre Chiquito, Trinidad and Tobago","Trinidad Christian Center, Sangre Chiquito, Sangre Grande, 52, Eastern Main Rd, Coalmine, 460626, Trinidad and Tobago","(10.566188, -61.106435, 0.0)",10.566188,-61.106435,0.0
+359,Sangre Grande,Urban Community,20710,"Sangre Grande, Trinidad and Tobago","Sangre Grande, Port of Spain, 450626, Trinidad and Tobago","(10.5869196, -61.1284394, 0.0)",10.5869196,-61.1284394,0.0
+360,San Souci,Rural Community,476,"San Souci, Trinidad and Tobago",,,,,
+361,Tamana,Semi-Urban Community,1641,"Tamana, Trinidad and Tobago","Four Roads Tamana, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4875465, -61.2149975, 0.0)",10.4875465,-61.2149975,0.0
+362,Toco,Rural Community,1182,"Toco, Trinidad and Tobago","Toco, Port of Spain, Trinidad and Tobago","(10.8368357, -60.9376753, 0.0)",10.8368357,-60.9376753,0.0
+363,Tompire,Rural Community,115,"Tompire, Trinidad and Tobago","Tompire River, Scarborough, Trinidad and Tobago","(10.7812898, -60.9510665, 0.0)",10.7812898,-60.9510665,0.0
+364,Turure,Urban Community,2234,"Turure, Trinidad and Tobago","Turure Road, Guaico, 450626, Trinidad and Tobago","(10.6004676, -61.1598354, 0.0)",10.6004676,-61.1598354,0.0
+365,Valencia,Rural Community,12334,"Valencia, Trinidad and Tobago","Valencia, Port of Spain, Trinidad and Tobago","(10.6535689, -61.1942361, 0.0)",10.6535689,-61.1942361,0.0
+366,San Juan/Laventille,Region,157258,"San Juan/Laventille, Trinidad and Tobago","Laventille, Port of Spain, N/A, Trinidad and Tobago","(10.6486237, -61.4900529, 0.0)",10.6486237,-61.4900529,0.0
+367,Aranguez,Rural Community,7404,"Aranguez, Trinidad and Tobago","Aranguez, Port of Spain, 868, Trinidad and Tobago","(10.6408594, -61.4429874, 0.0)",10.6408594,-61.4429874,0.0
+368,Barataria,Urban Community,9389,"Barataria, Trinidad and Tobago","Barataria, Port of Spain, 120110, Trinidad and Tobago","(10.64986, -61.4623113, 0.0)",10.64986,-61.4623113,0.0
+369,Beetham Estate,Urban Community,3442,"Beetham Estate, Trinidad and Tobago","Excel Beetham Estate Gov't Primary School, Main Street, Laventille, Port of Spain, N/A, Trinidad and Tobago","(10.645733400000001, -61.49643304117218, 0.0)",10.645733400000001,-61.49643304117218,0.0
+370,Cantaro Village,Urban Community,4408,"Cantaro Village, Trinidad and Tobago","Cantaro, Santa Cruz, Trinidad and Tobago","(10.7196949, -61.4697178, 0.0)",10.7196949,-61.4697178,0.0
+371,Cascade,Urban Community,3987,"Cascade, Trinidad and Tobago","Cascade River Gardens, Saint Ann's, Port of Spain, Trinidad and Tobago","(10.678860700000001, -61.49573142627877, 0.0)",10.678860700000001,-61.49573142627877,0.0
+372,Champ Fleurs [↑ partly also in Tunapuna/Piarco],Urban Community,2476,"Champ Fleurs [↑ partly also in Tunapuna/Piarco], Trinidad and Tobago",,,,,
+373,Eastern Quarry,Urban Community,5043,"Eastern Quarry, Trinidad and Tobago","Eastern Quarry Road, John John, Port of Spain, N/A, Trinidad and Tobago","(10.6521292, -61.4938526, 0.0)",10.6521292,-61.4938526,0.0
+374,El Socorro,Urban Community,8049,"El Socorro, Trinidad and Tobago","El Socorro, Port of Spain, 1868 774-7322, Trinidad and Tobago","(10.6339464, -61.4514533, 0.0)",10.6339464,-61.4514533,0.0
+375,El Socorro Extension,Urban Community,2581,"El Socorro Extension, Trinidad and Tobago","El Socorro Extension, Barataria, El Socorro, 1868 774-7322, Trinidad and Tobago","(10.6364999, -61.4534052, 0.0)",10.6364999,-61.4534052,0.0
+376,Febeau Village,Urban Community,5253,"Febeau Village, Trinidad and Tobago","Febeau Street, Barataria, San Juan, 868, Trinidad and Tobago","(10.656799, -61.4505941, 0.0)",10.656799,-61.4505941,0.0
+377,Gran Curucaye,Urban Community,2323,"Gran Curucaye, Trinidad and Tobago",,,,,
+378,La Canoa,Urban Community,3951,"La Canoa, Trinidad and Tobago","La Canoa, Trinidad and Tobago","(10.697682449999999, -61.44633657513921, 0.0)",10.697682449999999,-61.44633657513921,0.0
+379,Lady Chancellor,Semi-Urban Community,94,"Lady Chancellor, Trinidad and Tobago","Lady Chancellor Road, Ellerslie Park, Saint Ann's, Port of Spain, 190130, Trinidad and Tobago","(10.6808654, -61.5146772, 0.0)",10.6808654,-61.5146772,0.0
+380,La Pastora,Semi-Urban Community,2901,"La Pastora, Trinidad and Tobago","La Pastora, Cantaro, Santa Cruz, Trinidad and Tobago","(10.7231144, -61.4682649, 0.0)",10.7231144,-61.4682649,0.0
+381,Las Cuevas,Rural Community,943,"Las Cuevas, Trinidad and Tobago","Las Cuevas, Port of Spain, Trinidad and Tobago","(10.7836012, -61.3894584, 0.0)",10.7836012,-61.3894584,0.0
+382,Laventille,Urban Community,11311,"Laventille, Trinidad and Tobago","Laventille, Port of Spain, N/A, Trinidad and Tobago","(10.6486237, -61.4900529, 0.0)",10.6486237,-61.4900529,0.0
+383,Lower Santa Cruz,Urban Community,576,"Lower Santa Cruz, Trinidad and Tobago",,,,,
+384,Malick,Urban Community,8910,"Malick, Trinidad and Tobago","Malick Trace, Barataria, Port of Spain, 120110, Trinidad and Tobago","(10.6570784, -61.4601507, 0.0)",10.6570784,-61.4601507,0.0
+385,Maracas,Rural Community,951,"Maracas, Trinidad and Tobago","Maracas, Port of Spain, Trinidad and Tobago","(10.7565233, -61.4399756, 0.0)",10.7565233,-61.4399756,0.0
+386,Maracas Bay,Rural Community,150,"Maracas Bay, Trinidad and Tobago","Maracas Bay, Fishing Bay Road, Cantaro, Maracas, Trinidad and Tobago","(10.762669899999999, -61.433826228041625, 0.0)",10.762669899999999,-61.433826228041625,0.0
+387,Marie Road,Urban Community,558,"Marie Road, Trinidad and Tobago","Marie Road, Morvant, Port of Spain, N/A, Trinidad and Tobago","(10.6693267, -61.4878148, 0.0)",10.6693267,-61.4878148,0.0
+388,Mon Repos,Urban Community,3128,"Mon Repos, Trinidad and Tobago","Mon Repos, San Fernando, VISTABELLA, Trinidad and Tobago","(10.2832527, -61.4500825, 0.0)",10.2832527,-61.4500825,0.0
+389,Morvant,Urban Community,17591,"Morvant, Trinidad and Tobago","Morvant, Port of Spain, N/A, Trinidad and Tobago","(10.6577414, -61.4759089, 0.0)",10.6577414,-61.4759089,0.0
+390,Mount d'Or,Urban Community,2412,"Mount d'Or, Trinidad and Tobago","Louis D'or, Roxborough, Tobago, Trinidad and Tobago","(11.2538732, -60.5614864, 0.0)",11.2538732,-60.5614864,0.0
+391,Mt. Hope,Urban Community,2218,"Mt. Hope, Trinidad and Tobago","Mount Hope, Port of Spain, 868, Trinidad and Tobago","(10.6543136, -61.4351657, 0.0)",10.6543136,-61.4351657,0.0
+392,Mt. Lambert,Urban Community,1941,"Mt. Lambert, Trinidad and Tobago",,,,,
+393,Never Dirty,Urban Community,1465,"Never Dirty, Trinidad and Tobago",,,,,
+394,Petit Bourg,Urban Community,5171,"Petit Bourg, Trinidad and Tobago","Petit Bourg, Port of Spain, 868, Trinidad and Tobago","(10.651042, -61.4356006, 0.0)",10.651042,-61.4356006,0.0
+395,Petit Curucaye,Urban Community,1447,"Petit Curucaye, Trinidad and Tobago",,,,,
+396,Picton,Urban Community,2896,"Picton, Trinidad and Tobago","Picton, Arouca, Tunapuna, 686, Trinidad and Tobago","(10.6440764, -61.3854721, 0.0)",10.6440764,-61.3854721,0.0
+397,Romain Lands,Urban Community,916,"Romain Lands, Trinidad and Tobago","Romain Lands, Morvant, Port of Spain, N/A, Trinidad and Tobago","(10.6694291, -61.4811915, 0.0)",10.6694291,-61.4811915,0.0
+398,Sam Boucaud,Urban Community,2357,"Sam Boucaud, Trinidad and Tobago","Sam Boucaud Gardens, Cantaro, Santa Cruz, Trinidad and Tobago","(10.7145627, -61.4777716677678, 0.0)",10.7145627,-61.4777716677678,0.0
+399,San Juan,Urban Community,15772,"San Juan, Trinidad and Tobago","San Juan, Port of Spain, 868 370-8825, Trinidad and Tobago","(10.6486053, -61.450882, 0.0)",10.6486053,-61.450882,0.0
+400,Santa Cruz,Urban Community,1087,"Santa Cruz, Trinidad and Tobago","Santa Cruz, Port of Spain, Trinidad and Tobago","(10.710225, -61.4741636, 0.0)",10.710225,-61.4741636,0.0
+401,Soconusco,Urban Community,1192,"Soconusco, Trinidad and Tobago",,,,,
+402,St. Anns,Urban Community,3056,"St. Anns, Trinidad and Tobago","St. Anns, Ellerslie Park, Saint Ann's, Port of Spain, 000, Trinidad and Tobago","(10.6854614, -61.5059854, 0.0)",10.6854614,-61.5059854,0.0
+403,St. Barbs,Urban Community,5100,"St. Barbs, Trinidad and Tobago","St Barbs Road, John John, Port of Spain, N/A, Trinidad and Tobago","(10.6606186, -61.4914066, 0.0)",10.6606186,-61.4914066,0.0
+404,Upper Belmont,Urban Community,3767,"Upper Belmont, Trinidad and Tobago","Belmont, Port of Spain, 000, Trinidad and Tobago","(10.6685371, -61.507102, 0.0)",10.6685371,-61.507102,0.0
+405,Siparia,Region,86949,"Siparia, Trinidad and Tobago","Siparia, Trinidad and Tobago","(10.14716065, -61.57870316884424, 0.0)",10.14716065,-61.57870316884424,0.0
+406,Apex Oil Field,Semi-Urban Community,583,"Apex Oil Field, Trinidad and Tobago",,,,,
+407,Aripero Village,Urban Community,2709,"Aripero Village, Trinidad and Tobago","Aripero, Siparia, Trinidad and Tobago","(10.2200272, -61.5680364, 0.0)",10.2200272,-61.5680364,0.0
+408,Avocat Village,Urban Community,1820,"Avocat Village, Trinidad and Tobago","Avocat Dr Ex, Bamboo Settlement Number 3, Valsayn, 12333, Trinidad and Tobago","(10.6275972, -61.4124142, 0.0)",10.6275972,-61.4124142,0.0
+409,Bamboo Village,Rural Community,611,"Bamboo Village, Trinidad and Tobago","bamboo village, Penal-Debe, -, Trinidad and Tobago","(10.2540088, -61.4740448, 0.0)",10.2540088,-61.4740448,0.0
+410,Beach Camp,Semi-Urban Community,584,"Beach Camp, Trinidad and Tobago","Beach Camp, Palo Seco, Palo Seco, Siparia, Trinidad and Tobago","(10.07351955, -61.58579154989132, 0.0)",10.07351955,-61.58579154989132,0.0
+411,Bennet Village,Semi-Urban Community,552,"Bennet Village, Trinidad and Tobago",,,,,
+412,Bois Bough,Semi-Urban Community,552,"Bois Bough, Trinidad and Tobago",,,,,
+413,Bonasse Village,Rural Community,659,"Bonasse Village, Trinidad and Tobago",,,,,
+414,Brighton,Semi-Urban Community,18,"Brighton, Trinidad and Tobago","Brighton Street, Point Fortin, 700147, Trinidad and Tobago","(10.1767264, -61.6411812, 0.0)",10.1767264,-61.6411812,0.0
+415,Carapal,Semi-Urban Community,414,"Carapal, Trinidad and Tobago","Carapal Branch Road, Erin, Siparia, Trinidad and Tobago","(10.0808558, -61.6576018, 0.0)",10.0808558,-61.6576018,0.0
+416,Cedros,Rural Community,849,"Cedros, Trinidad and Tobago","Cedros, Siparia, Trinidad and Tobago","(10.0927871, -61.8602262, 0.0)",10.0927871,-61.8602262,0.0
+417,Chatham,Semi-Urban Community,1640,"Chatham, Trinidad and Tobago","Chatham Beach Road South, Buenos Ayres, Siparia, Trinidad and Tobago","(10.1076542, -61.7359824, 0.0)",10.1076542,-61.7359824,0.0
+418,Chinese Village,Urban Community,697,"Chinese Village, Trinidad and Tobago","Nice Food Chinese Restaurant, 182, Eastern Main Road, Sunrise Park, Arouca, Bon Air, 350509, Trinidad and Tobago","(10.633868, -61.33432, 0.0)",10.633868,-61.33432,0.0
+419,Cochrane [↑ partly also in Point Fortin],Semi-Urban Community,1026,"Cochrane [↑ partly also in Point Fortin], Trinidad and Tobago",,,,,
+420,Coromandel,Rural Community,1306,"Coromandel, Trinidad and Tobago","Coromandel Recreation Ground, Sankarali Trace, Siparia, Trinidad and Tobago","(10.131504849999999, -61.80297221867691, 0.0)",10.131504849999999,-61.80297221867691,0.0
+421,Danny Village,Semi-Urban Community,328,"Danny Village, Trinidad and Tobago",,,,,
+422,De Gannes Village,Urban Community,2034,"De Gannes Village, Trinidad and Tobago",,,,,
+423,Delhi Settlement,Urban Community,3327,"Delhi Settlement, Trinidad and Tobago",,,,,
+424,Dow Village,Urban Community,2374,"Dow Village, Trinidad and Tobago","Dow Village, Couva, Couva-Tabaquite-Talparo, Trinidad and Tobago","(10.4013373, -61.4681038, 0.0)",10.4013373,-61.4681038,0.0
+425,Erin/Buenos Ayres,Semi-Urban Community,430,"Erin/Buenos Ayres, Trinidad and Tobago","Erin Road, Buenos Ayres, Siparia, Trinidad and Tobago","(10.0893487, -61.6720983, 0.0)",10.0893487,-61.6720983,0.0
+426,Erin Proper,Rural Community,403,"Erin Proper, Trinidad and Tobago",,,,,
+427,Forest Reserve,Semi-Urban Community,58,"Forest Reserve, Trinidad and Tobago",Trinidad and Tobago,"(10.8677845, -60.9821067, 0.0)",10.8677845,-60.9821067,0.0
+428,Fullerton,Rural Community,652,"Fullerton, Trinidad and Tobago","Fullerton, Siparia, Trinidad and Tobago","(10.0898253, -61.8822847, 0.0)",10.0898253,-61.8822847,0.0
+429,Fyzabad,Urban Community,2630,"Fyzabad, Trinidad and Tobago","Fyzabad, Siparia, Trinidad and Tobago","(10.1802665, -61.5467618, 0.0)",10.1802665,-61.5467618,0.0
+430,Gheerahoo,Semi-Urban Community,275,"Gheerahoo, Trinidad and Tobago","Gheerahoo Tr, Fyzabad, Siparia, Trinidad and Tobago","(10.179532, -61.5658036, 0.0)",10.179532,-61.5658036,0.0
+431,Granville,Semi-Urban Community,401,"Granville, Trinidad and Tobago","Granville Road, Bamboo, Siparia, Trinidad and Tobago","(10.1179463, -61.8075051, 0.0)",10.1179463,-61.8075051,0.0
+432,Guapo Lot 10,Semi-Urban Community,326,"Guapo Lot 10, Trinidad and Tobago","Guapo, Siparia, 700147, Trinidad and Tobago","(10.1780186, -61.6472798, 0.0)",10.1780186,-61.6472798,0.0
+433,Harris Village,Urban Community,1726,"Harris Village, Trinidad and Tobago","Trinidad y Tobago, Ba. Las Américas, Conavi, Hernandarias, Alto Paraná, Región Oriental, 7220, Paraguay","(-25.4053367, -54.6225708, 0.0)",-25.4053367,-54.6225708,0.0
+434,Icacos,Rural Community,1093,"Icacos, Trinidad and Tobago","Icacos, Siparia, Trinidad and Tobago","(10.0466232, -61.9115551, 0.0)",10.0466232,-61.9115551,0.0
+435,Jacob Village,Urban Community,604,"Jacob Village, Trinidad and Tobago","Trinidad y Tobago, Ba. Las Américas, Conavi, Hernandarias, Alto Paraná, Región Oriental, 7220, Paraguay","(-25.4053367, -54.6225708, 0.0)",-25.4053367,-54.6225708,0.0
+436,La Brea,Urban Community,3072,"La Brea, Trinidad and Tobago","La Brea, Siparia, Trinidad and Tobago","(10.2371083, -61.6158925, 0.0)",10.2371083,-61.6158925,0.0
+437,La Fortune/Pluck,Urban Community,1738,"La Fortune/Pluck, Trinidad and Tobago","La Fortune Pluck Road, Siparia, -, Trinidad and Tobago","(10.2000732, -61.4907515, 0.0)",10.2000732,-61.4907515,0.0
+438,Lorensotte,Urban Community,767,"Lorensotte, Trinidad and Tobago","Lorensotte, Siparia, Trinidad and Tobago","(10.0789602, -61.6216878, 0.0)",10.0789602,-61.6216878,0.0
+439,Los Bajos,Urban Community,663,"Los Bajos, Trinidad and Tobago","Los Bajos, Siparia, Trinidad and Tobago","(10.1085721, -61.5725741, 0.0)",10.1085721,-61.5725741,0.0
+440,Los Charos,Semi-Urban Community,163,"Los Charos, Trinidad and Tobago","Los Charos Road, Palo Seco, Siparia, Trinidad and Tobago","(10.1024776, -61.5957622, 0.0)",10.1024776,-61.5957622,0.0
+441,Los Iros/Erin,Rural Community,902,"Los Iros/Erin, Trinidad and Tobago",,,,,
+442,Mon Desir,Rural Community,2330,"Mon Desir, Trinidad and Tobago","Mon Desir, Aripero, Siparia, Trinidad and Tobago","(10.2060654, -61.5648943, 0.0)",10.2060654,-61.5648943,0.0
+443,Mon Desir/Silver Stream,Semi-Urban Community,1203,"Mon Desir/Silver Stream, Trinidad and Tobago",,,,,
+444,Oropouche,Urban Community,2850,"Oropouche, Trinidad and Tobago","Oropouche, Siparia, Trinidad and Tobago","(10.2170017, -61.5432008, 0.0)",10.2170017,-61.5432008,0.0
+445,Palo Seco,Urban Community,1770,"Palo Seco, Trinidad and Tobago","Palo Seco, Siparia, Trinidad and Tobago","(10.0940434, -61.5878529, 0.0)",10.0940434,-61.5878529,0.0
+446,Parry Lands South,Urban Community,1118,"Parry Lands South, Trinidad and Tobago",,,,,
+447,Pepper Village,Urban Community,2963,"Pepper Village, Trinidad and Tobago","Pepper Village, Erin, Siparia, Trinidad and Tobago","(10.0814421, -61.650167, 0.0)",10.0814421,-61.650167,0.0
+448,Point d'Or,Urban Community,1728,"Point d'Or, Trinidad and Tobago","Point D'Or, La Brea, Siparia, Trinidad and Tobago","(10.2394935, -61.610875, 0.0)",10.2394935,-61.610875,0.0
+449,Quarry Village,Urban Community,3285,"Quarry Village, Trinidad and Tobago","Quarry Road, Barataria, Mount Hope, 868, Trinidad and Tobago","(10.660115, -61.4429202, 0.0)",10.660115,-61.4429202,0.0
+450,Rancho Quemado,Semi-Urban Community,1820,"Rancho Quemado, Trinidad and Tobago","Rancho Quemado, Siparia, Trinidad and Tobago","(10.0809802, -61.6134315, 0.0)",10.0809802,-61.6134315,0.0
+451,Robert Hill/Siparia,Urban Community,667,"Robert Hill/Siparia, Trinidad and Tobago","Robert Hill, Siparia, Trinidad and Tobago","(10.1588687, -61.5210842, 0.0)",10.1588687,-61.5210842,0.0
+452,Rousillac,Urban Community,2105,"Rousillac, Trinidad and Tobago","Rousillac, La Brea, Siparia, Trinidad and Tobago","(10.210526, -61.580713, 0.0)",10.210526,-61.580713,0.0
+453,Salazar Village,Semi-Urban Community,1522,"Salazar Village, Trinidad and Tobago","Salazar Trace, Guapo, Siparia, 700147, Trinidad and Tobago","(10.146092, -61.6474398, 0.0)",10.146092,-61.6474398,0.0
+454,San Francique [↑ partly also in Penal/Debe],Urban Community,4206,"San Francique [↑ partly also in Penal/Debe], Trinidad and Tobago",,,,,
+455,Santa Flora,Semi-Urban Community,691,"Santa Flora, Trinidad and Tobago","Santa Flora, Siparia, Trinidad and Tobago","(10.1120449, -61.5597374, 0.0)",10.1120449,-61.5597374,0.0
+456,Siparia,Urban Community,6170,"Siparia, Trinidad and Tobago","Siparia, Trinidad and Tobago","(10.14716065, -61.57870316884424, 0.0)",10.14716065,-61.57870316884424,0.0
+457,Sobo Village,Urban Community,1529,"Sobo Village, Trinidad and Tobago","Sobo Road, La Brea, Siparia, Trinidad and Tobago","(10.2270633, -61.6124317, 0.0)",10.2270633,-61.6124317,0.0
+458,St. John,Semi-Urban Community,724,"St. John, Trinidad and Tobago","Store, Agostini Street, Saint Augustine, 686, Trinidad and Tobago","(10.6456162, -61.404294947966164, 0.0)",10.6456162,-61.404294947966164,0.0
+459,St. Mary's Village,Urban Community,978,"St. Mary's Village, Trinidad and Tobago","St. Mary's, Paria Main Road, Toco, Trinidad and Tobago","(10.8678055, -60.9820892, 0.0)",10.8678055,-60.9820892,0.0
+460,Sudama Village,Semi-Urban Community,1501,"Sudama Village, Trinidad and Tobago","Sudama Alley, Siparia, Trinidad and Tobago","(10.1433315, -61.5189926, 0.0)",10.1433315,-61.5189926,0.0
+461,Syne Village [↑ partly also in Penal/Debe],Urban Community,2156,"Syne Village [↑ partly also in Penal/Debe], Trinidad and Tobago",,,,,
+462,Thick Village,Urban Community,3417,"Thick Village, Trinidad and Tobago",,,,,
+463,Vance River,Semi-Urban Community,1275,"Vance River, Trinidad and Tobago","Vance River, La Brea, Siparia, Trinidad and Tobago","(10.2021908, -61.6307194, 0.0)",10.2021908,-61.6307194,0.0
+464,Vessigny,Urban Community,1109,"Vessigny, Trinidad and Tobago","Vessigny, La Brea, Siparia, Trinidad and Tobago","(10.2175607, -61.6279957, 0.0)",10.2175607,-61.6279957,0.0
+465,Waddle Village,Urban Community,1085,"Waddle Village, Trinidad and Tobago","Waddle Village, Santa Flora, Siparia, Trinidad and Tobago","(10.1151232, -61.5546423, 0.0)",10.1151232,-61.5546423,0.0
+466,St. Andrew,Parish,17536,"St. Andrew, Trinidad and Tobago","Andrew Street, Downtown Chaguanas, Montrose, Chaguanas, 500125, Trinidad and Tobago","(10.512677, -61.4061296, 0.0)",10.512677,-61.4061296,0.0
+467,Bacolet,Community,433,"Bacolet, Trinidad and Tobago","Bacolet Public Cemetery, Scarborough, Tobago, Trinidad and Tobago","(11.175435199999999, -60.73016321551333, 0.0)",11.175435199999999,-60.73016321551333,0.0
+468,Bagatelle,Community,733,"Bagatelle, Trinidad and Tobago","Bagatelle Road, Barataria, San Juan, 120110, Trinidad and Tobago","(10.661947, -61.4539039, 0.0)",10.661947,-61.4539039,0.0
+469,Bethel/Mt. Gomery,Community,900,"Bethel/Mt. Gomery, Trinidad and Tobago",,,,,
+470,Calder Hall/Friendsfield,Community,599,"Calder Hall/Friendsfield, Trinidad and Tobago",,,,,
+471,Carnbee/Patience Hill,Community,506,"Carnbee/Patience Hill, Trinidad and Tobago","Patience Hill, Montgomery, Scarborough, Tobago, Trinidad and Tobago","(11.196072, -60.7666187, 0.0)",11.196072,-60.7666187,0.0
+472,Cinnamon Hall (Government House),Community,1184,"Cinnamon Hall (Government House), Trinidad and Tobago",,,,,
+473,Darrel Spring,Community,1870,"Darrel Spring, Trinidad and Tobago",,,,,
+474,Idlewild/Whim,Community,1812,"Idlewild/Whim, Trinidad and Tobago","Idlewild Crown Tr, Montgomery, Scarborough, Tobago, Trinidad and Tobago","(11.1966173, -60.7439368, 0.0)",11.1966173,-60.7439368,0.0
+475,Lambeau,Community,1278,"Lambeau, Trinidad and Tobago","Lambeau, Scarborough, Tobago, Trinidad and Tobago","(11.1677964, -60.7588912, 0.0)",11.1677964,-60.7588912,0.0
+476,Mount Grace,Community,1934,"Mount Grace, Trinidad and Tobago","Trinidad y Tobago, Ba. Las Américas, Conavi, Hernandarias, Alto Paraná, Región Oriental, 7220, Paraguay","(-25.4053367, -54.6225708, 0.0)",-25.4053367,-54.6225708,0.0
+477,Mount Marie,Community,244,"Mount Marie, Trinidad and Tobago",,,,,
+478,Patience Hill,Community,1106,"Patience Hill, Trinidad and Tobago","Patience Hill, Scarborough, Tobago, Trinidad and Tobago","(11.1868306, -60.7692321, 0.0)",11.1868306,-60.7692321,0.0
+479,Sargeant Cain,Community,427,"Sargeant Cain, Trinidad and Tobago","Sargeant Cain Road, Scarborough, Tobago, Trinidad and Tobago","(11.1843846, -60.7304285, 0.0)",11.1843846,-60.7304285,0.0
+480,Scarborough,Community,1167,"Scarborough, Trinidad and Tobago","Scarborough, Tobago, Trinidad and Tobago","(11.1852893, -60.735024, 0.0)",11.1852893,-60.735024,0.0
+481,Sherwood Park,Community,866,"Sherwood Park, Trinidad and Tobago","Sherwood Park, Hampden, Carnbee, Tobago, Trinidad and Tobago","(11.1663245, -60.7794264, 0.0)",11.1663245,-60.7794264,0.0
+482,Signal Hill/Patience Hill,Community,1113,"Signal Hill/Patience Hill, Trinidad and Tobago","Scarborough General Hospital, Signal Hill Road, Montgomery, Scarborough, Tobago, Trinidad and Tobago","(11.18017635, -60.75336770674157, 0.0)",11.18017635,-60.75336770674157,0.0
+483,Spring Garden/Signal Hill,Community,1345,"Spring Garden/Signal Hill, Trinidad and Tobago","Signal Hill, Scarborough, Tobago, Trinidad and Tobago","(11.1794289, -60.76349, 0.0)",11.1794289,-60.76349,0.0
+484,St. David,Parish,8733,"St. David, Trinidad and Tobago","David Street, Ellerslie Park, Federation Park, Port of Spain, 110706, Trinidad and Tobago","(10.6799695, -61.5380616, 0.0)",10.6799695,-61.5380616,0.0
+485,Arnos Vale,Community,449,"Arnos Vale, Trinidad and Tobago",,,,,
+486,Bethesda,Community,1216,"Bethesda, Trinidad and Tobago","Bethesda Village Street, Montgomery, Plymouth, Tobago, Trinidad and Tobago","(11.2230046, -60.7698548, 0.0)",11.2230046,-60.7698548,0.0
+487,Castara,Community,580,"Castara, Trinidad and Tobago","Castara, Tobago, Trinidad and Tobago","(11.2809554, -60.6934268, 0.0)",11.2809554,-60.6934268,0.0
+488,Culloden,Community,711,"Culloden, Trinidad and Tobago","Culloden Village Street, Scarborough, Tobago, Trinidad and Tobago","(11.2415781, -60.7372004, 0.0)",11.2415781,-60.7372004,0.0
+489,Golden Lane,Community,723,"Golden Lane, Trinidad and Tobago","Golden View, Arouca, El Dorado, Trinidad and Tobago","(10.652494950000001, -61.36983066646774, 0.0)",10.652494950000001,-61.36983066646774,0.0
+490,Les Coteaux,Community,665,"Les Coteaux, Trinidad and Tobago","Les Coteaux, Scarborough, Tobago, Trinidad and Tobago","(11.2253667, -60.7428592, 0.0)",11.2253667,-60.7428592,0.0
+491,Mary's Hill,Community,560,"Mary's Hill, Trinidad and Tobago","Mary's Hill, Montgomery, Scarborough, Tobago, Trinidad and Tobago","(11.2093802, -60.7541553, 0.0)",11.2093802,-60.7541553,0.0
+492,Moriah,Community,2151,"Moriah, Trinidad and Tobago","Moriah, Scarborough, Tobago, Trinidad and Tobago","(11.2494045, -60.7154367, 0.0)",11.2494045,-60.7154367,0.0
+493,Plymouth,Community,1192,"Plymouth, Trinidad and Tobago","Plymouth, Scarborough, Tobago, Trinidad and Tobago","(11.2199522, -60.7738418, 0.0)",11.2199522,-60.7738418,0.0
+494,Whim,Community,486,"Whim, Trinidad and Tobago","Whim, Scarborough, Tobago, Trinidad and Tobago","(11.2010885, -60.7470341, 0.0)",11.2010885,-60.7470341,0.0
+495,St. George,Parish,6875,"St. George, Trinidad and Tobago","Calle Tobago, Colonia Trinidad, El Refugio, Municipio de El Refugio, Departamento de Ahuachapán, República de El Salvador","(13.9684723, -89.7068201, 0.0)",13.9684723,-89.7068201,0.0
+496,Belmont,Community,945,"Belmont, Trinidad and Tobago","Belmont, Port of Spain, 000, Trinidad and Tobago","(10.6685371, -61.507102, 0.0)",10.6685371,-61.507102,0.0
+497,Concordia,Community,944,"Concordia, Trinidad and Tobago",,,,,
+498,Easterfield,Community,877,"Easterfield, Trinidad and Tobago","Easterfield Road, Mason Hall, Tobago, Trinidad and Tobago","(11.2270791, -60.7045276, 0.0)",11.2270791,-60.7045276,0.0
+499,Hope/Blenheim,Community,711,"Hope/Blenheim, Trinidad and Tobago","Hope, Scarborough, Tobago, Trinidad and Tobago","(11.1944187, -60.692749, 0.0)",11.1944187,-60.692749,0.0
+500,Hope Farm/John Dial,Community,410,"Hope Farm/John Dial, Trinidad and Tobago",,,,,
+501,Mason Hall,Community,1378,"Mason Hall, Trinidad and Tobago","Mason Hall, Scarborough, Tobago, Trinidad and Tobago","(11.2198826, -60.7141381, 0.0)",11.2198826,-60.7141381,0.0
+502,Mount St. George,Community,1609,"Mount St. George, Trinidad and Tobago","Mount Saint George, Scarborough, Tobago, Trinidad and Tobago","(11.1936976, -60.6787091, 0.0)",11.1936976,-60.6787091,0.0
+503,St. John,Parish,2825,"St. John, Trinidad and Tobago","Store, Agostini Street, Saint Augustine, 686, Trinidad and Tobago","(10.6456162, -61.404294947966164, 0.0)",10.6456162,-61.404294947966164,0.0
+504,Bloody Bay,Community,144,"Bloody Bay, Trinidad and Tobago","Bloody Bay, Tobago, Trinidad and Tobago","(11.2931048, -60.6294267, 0.0)",11.2931048,-60.6294267,0.0
+505,Campbleton/Charlotteville,Community,188,"Campbleton/Charlotteville, Trinidad and Tobago","Fort Campbleton, Charlotteville, Tobago, Trinidad and Tobago","(11.3196544, -60.5559109, 0.0)",11.3196544,-60.5559109,0.0
+506,Charlotteville,Community,863,"Charlotteville, Trinidad and Tobago","Charlotteville, Scarborough, Tobago, Trinidad and Tobago","(11.3223399, -60.5473352, 0.0)",11.3223399,-60.5473352,0.0
+507,L'Anse Fourmi,Community,273,"L'Anse Fourmi, Trinidad and Tobago","L'anse Fourmi, Tobago, Trinidad and Tobago","(11.3106249, -60.6159008, 0.0)",11.3106249,-60.6159008,0.0
+508,Lucy Vale,Community,408,"Lucy Vale, Trinidad and Tobago","Lucy Street, Downtown Chaguanas, Montrose, Chaguanas, 500125, Trinidad and Tobago","(10.5134087, -61.3991113, 0.0)",10.5134087,-61.3991113,0.0
+509,Parlatuvier,Community,315,"Parlatuvier, Trinidad and Tobago","Parlatuvier, Tobago, Trinidad and Tobago","(11.2980249, -60.6510866, 0.0)",11.2980249,-60.6510866,0.0
+510,Speyside,Community,18,"Speyside, Trinidad and Tobago","Speyside, Charlotteville, Tobago, Trinidad and Tobago","(11.2936839, -60.533741, 0.0)",11.2936839,-60.533741,0.0
+511,Top Hill,Community,616,"Top Hill, Trinidad and Tobago","Top Hill, Speyside, Tobago, Trinidad and Tobago","(11.2961583, -60.5363776, 0.0)",11.2961583,-60.5363776,0.0
+512,St. Mary,Parish,3297,"St. Mary, Trinidad and Tobago","Mary Street, Ellerslie Park, Federation Park, Port of Spain, 190130, Trinidad and Tobago","(10.6711621, -61.5201335, 0.0)",10.6711621,-61.5201335,0.0
+513,Glamorgan,Community,719,"Glamorgan, Trinidad and Tobago","Glamorgan, Scarborough, Tobago, Trinidad and Tobago","(11.2216186, -60.6134258, 0.0)",11.2216186,-60.6134258,0.0
+514,Goodwood,Community,1458,"Goodwood, Trinidad and Tobago","Goodwood, Tobago, Trinidad and Tobago","(11.2024979, -60.6347122, 0.0)",11.2024979,-60.6347122,0.0
+515,Pembroke,Community,1119,"Pembroke, Trinidad and Tobago","Pembroke, Tobago, Trinidad and Tobago","(11.217221, -60.6203, 0.0)",11.217221,-60.6203,0.0
+516,St. Patrick,Parish,15560,"St. Patrick, Trinidad and Tobago","St Patrick, Hampden, Mount Pleasant, Tobago, Trinidad and Tobago","(11.163382, -60.7913793, 0.0)",11.163382,-60.7913793,0.0
+517,Bethel,Community,261,"Bethel, Trinidad and Tobago","Bethel, Scarborough, Tobago, Trinidad and Tobago","(11.1828305, -60.7849284, 0.0)",11.1828305,-60.7849284,0.0
+518,Bethlehem,Community,763,"Bethlehem, Trinidad and Tobago","Bethlehem Pk, Edinburgh Gardens, Chaguanas, Couva-Tabaquite-Talparo, 500125, Trinidad and Tobago","(10.4900486, -61.4110262, 0.0)",10.4900486,-61.4110262,0.0
+519,Black Rock,Community,1358,"Black Rock, Trinidad and Tobago","Black Rock, Scarborough, Tobago, Trinidad and Tobago","(11.2053014, -60.7816697, 0.0)",11.2053014,-60.7816697,0.0
+520,Bon Accord,Community,2327,"Bon Accord, Trinidad and Tobago","Bon-Accord, Crown Point, Tobago, Trinidad and Tobago","(11.1549603, -60.82448, 0.0)",11.1549603,-60.82448,0.0
+521,Buccoo/Coral Gardens,Community,916,"Buccoo/Coral Gardens, Trinidad and Tobago","Buccoo Cemetery, Coral Gardens, Mount Pleasant, Tobago, Trinidad and Tobago","(11.169895350000001, -60.7982207058548, 0.0)",11.169895350000001,-60.7982207058548,0.0
+522,Canaan,Community,2120,"Canaan, Trinidad and Tobago","Canaan, Scarborough, Tobago, Trinidad and Tobago","(11.1586553, -60.810305, 0.0)",11.1586553,-60.810305,0.0
+523,Carnbee/All Field Trace,Community,1216,"Carnbee/All Field Trace, Trinidad and Tobago",,,,,
+524,Crown Point,Community,554,"Crown Point, Trinidad and Tobago","Crown Point, Tobago, Trinidad and Tobago","(11.1535454, -60.8387017, 0.0)",11.1535454,-60.8387017,0.0
+525,Lowlands,Community,1237,"Lowlands, Trinidad and Tobago","Lowlands, Scarborough, Tobago, Trinidad and Tobago","(11.1534529, -60.7831797, 0.0)",11.1534529,-60.7831797,0.0
+526,Milford Court/Pigeon Point,Community,881,"Milford Court/Pigeon Point, Trinidad and Tobago",,,,,
+527,Mt. Irvine/Black Rock,Community,565,"Mt. Irvine/Black Rock, Trinidad and Tobago",,,,,
+528,Mt. Pleasant,Community,945,"Mt. Pleasant, Trinidad and Tobago","Mount Pleasant, Scarborough, Tobago, Trinidad and Tobago","(11.1670196, -60.7929427, 0.0)",11.1670196,-60.7929427,0.0
+529,Old Grange/Sou Sou Lands,Community,2000,"Old Grange/Sou Sou Lands, Trinidad and Tobago","Sou Sou Lands, Morvant, Port of Spain, N/A, Trinidad and Tobago","(10.6723021, -61.46949, 0.0)",10.6723021,-61.46949,0.0
+530,Orange Hill,Community,416,"Orange Hill, Trinidad and Tobago","Orange Field, Couva-Tabaquite-Talparo, 1868, Trinidad and Tobago","(10.4755222, -61.4308179, 0.0)",10.4755222,-61.4308179,0.0
+531,St. Paul,Parish,6048,"St. Paul, Trinidad and Tobago","Paul's Auto Transmission Service, 28, Lio Street, Barataria, El Socorro, 868 793-7962, Trinidad and Tobago","(10.6314137, -61.4555996, 0.0)",10.6314137,-61.4555996,0.0
+532,Argyle/Kendal,Community,625,"Argyle/Kendal, Trinidad and Tobago",,,,,
+533,Belle Gardens,Community,544,"Belle Gardens, Trinidad and Tobago","Belle Garden, Roxborough, Tobago, Trinidad and Tobago","(11.2354557, -60.602823, 0.0)",11.2354557,-60.602823,0.0
+534,Betsy's Hope,Community,492,"Betsy's Hope, Trinidad and Tobago","Betsy's Hope, Roxborough, Tobago, Trinidad and Tobago","(11.2493976, -60.569623, 0.0)",11.2493976,-60.569623,0.0
+535,Delaford,Community,594,"Delaford, Trinidad and Tobago","Delaford, Roxborough, Tobago, Trinidad and Tobago","(11.2664983, -60.555066, 0.0)",11.2664983,-60.555066,0.0
+536,Delaford/Louis d'Or/Lands Settlement,Community,907,"Delaford/Louis d'Or/Lands Settlement, Trinidad and Tobago",,,,,
+537,King's Bay,Community,300,"King's Bay, Trinidad and Tobago","King's, 94, Western Main Road, Ellerslie Park, Federation Park, Port of Spain, 190130, Trinidad and Tobago","(10.67298945, -61.53665062109742, 0.0)",10.67298945,-61.53665062109742,0.0
+538,Roxborough,Community,2089,"Roxborough, Trinidad and Tobago","Roxborough, Scarborough, Tobago, Trinidad and Tobago","(11.2495139, -60.5762208, 0.0)",11.2495139,-60.5762208,0.0
+539,Zion Hill,Community,492,"Zion Hill, Trinidad and Tobago","Zion Hill, Belle Garden, Tobago, Trinidad and Tobago","(11.2340229, -60.6029758, 0.0)",11.2340229,-60.6029758,0.0
+540,Tunapuna/Piarco,Region,215119,"Tunapuna/Piarco, Trinidad and Tobago","Tunapuna Piarco Regional Coroporation, Centenary Street, Arouca, Tunapuna, 686, Trinidad and Tobago","(10.64475805, -61.38863731122983, 0.0)",10.64475805,-61.38863731122983,0.0
+541,Acono Village,Semi-Urban Community,2050,"Acono Village, Trinidad and Tobago","Acono, Port of Spain, 310407, Trinidad and Tobago","(10.6947765, -61.4020788, 0.0)",10.6947765,-61.4020788,0.0
+542,Arima Heights/Temple Village,Rural Community,375,"Arima Heights/Temple Village, Trinidad and Tobago",,,,,
+543,Arouca,Urban Community,12530,"Arouca, Trinidad and Tobago","Arouca, Five Rivers, 350509, Trinidad and Tobago","(10.6349851, -61.3399307, 0.0)",10.6349851,-61.3399307,0.0
+544,Bamboo Grove [↑ partly also in San Juan/Laventille],Urban Community,3562,"Bamboo Grove [↑ partly also in San Juan/Laventille], Trinidad and Tobago",,,,,
+545,Bejucal [↑ partly also in San Juan/Laventille],Semi-Urban Community,1753,"Bejucal [↑ partly also in San Juan/Laventille], Trinidad and Tobago",,,,,
+546,Blanchisseuse [↑ partly also in San Juan/Laventille],Rural Community,1375,"Blanchisseuse [↑ partly also in San Juan/Laventille], Trinidad and Tobago",,,,,
+547,Bon Air Development,Urban Community,5748,"Bon Air Development, Trinidad and Tobago",,,,,
+548,Bon Air West Development,Urban Community,2470,"Bon Air West Development, Trinidad and Tobago",,,,,
+549,Brasso Seco Village,Rural Community,447,"Brasso Seco Village, Trinidad and Tobago","Brasso Seco, Port of Spain, Trinidad and Tobago","(10.7461564, -61.2662646, 0.0)",10.7461564,-61.2662646,0.0
+550,Cane Farm,Urban Community,1293,"Cane Farm, Trinidad and Tobago","Sugar Cane Drive, Orchard Gardens, Chaguanas, 500125, Trinidad and Tobago","(10.5197839, -61.4222736, 0.0)",10.5197839,-61.4222736,0.0
+551,Carapo,Urban Community,4950,"Carapo, Trinidad and Tobago","Carapo Road, La Horquetta, Saint Helena, 351443, Trinidad and Tobago","(10.5907229, -61.3127227, 0.0)",10.5907229,-61.3127227,0.0
+552,Caroni Village,Urban Community,999,"Caroni Village, Trinidad and Tobago","Caroni River, ???, Trinidad and Tobago","(10.5957987, -61.3599499, 0.0)",10.5957987,-61.3599499,0.0
+553,Caura,Rural Community,1706,"Caura, Trinidad and Tobago","Caura River Pools, Port of Spain, Trinidad and Tobago","(10.69042555, -61.3590476742617, 0.0)",10.69042555,-61.3590476742617,0.0
+554,Centeno,Rural Community,165,"Centeno, Trinidad and Tobago","Centeno Street, Marabella, San Fernando, VISTABELLA, Trinidad and Tobago","(10.3084682, -61.455006, 0.0)",10.3084682,-61.455006,0.0
+555,Cleaver Road,Rural Community,604,"Cleaver Road, Trinidad and Tobago","Cleaver Road, Malabar, D'Abadie, 351350, Trinidad and Tobago","(10.639086, -61.3006836, 0.0)",10.639086,-61.3006836,0.0
+556,Cunupia [↑ partly also in Chaguanas & Couva/Tabaquite/Talparo],Urban Community,8786,"Cunupia [↑ partly also in Chaguanas & Couva/Tabaquite/Talparo], Trinidad and Tobago",,,,,
+557,Curepe,Urban Community,8740,"Curepe, Trinidad and Tobago","Curepe, Port of Spain, 310407, Trinidad and Tobago","(10.6502517, -61.4093463, 0.0)",10.6502517,-61.4093463,0.0
+558,D'Abadie,Urban Community,5835,"D'Abadie, Trinidad and Tobago","D'Abadie, Arima, 351350, Trinidad and Tobago","(10.6289906, -61.3109079, 0.0)",10.6289906,-61.3109079,0.0
+559,Dinsley,Urban Community,2667,"Dinsley, Trinidad and Tobago","Dinsley Gardens, Arouca, Tacarigua, Trinidad and Tobago","(10.63733545, -61.36288875502838, 0.0)",10.63733545,-61.36288875502838,0.0
+560,Dinsley/Trincity,Urban Community,9132,"Dinsley/Trincity, Trinidad and Tobago","Dinsley Gardens, Arouca, Tacarigua, Trinidad and Tobago","(10.63733545, -61.36288875502838, 0.0)",10.63733545,-61.36288875502838,0.0
+561,El Dorado,Urban Community,6439,"El Dorado, Trinidad and Tobago","El Dorado, Port of Spain, 686, Trinidad and Tobago","(10.6477579, -61.3723128, 0.0)",10.6477579,-61.3723128,0.0
+562,Eric Williams Medical Sciences Complex,Urban Community,139,"Eric Williams Medical Sciences Complex, Trinidad and Tobago","Eric Williams Medical Sciences Complex, Uriah Butler Hwy Bldg Champs Fleurs, Bamboo Settlement Number 3, Barataria, Curepe, 12333, Trinidad and Tobago","(10.64693785, -61.42272363022934, 0.0)",10.64693785,-61.42272363022934,0.0
+563,Five Rivers,Urban Community,4702,"Five Rivers, Trinidad and Tobago","Five Rivers, Trincity, 1 868-681-2822, Trinidad and Tobago","(10.6417827, -61.3445774, 0.0)",10.6417827,-61.3445774,0.0
+564,Frederick Settlement,Urban Community,1251,"Frederick Settlement, Trinidad and Tobago","Frederick Settlement, 686, Trinidad and Tobago","(10.6055524, -61.3976065, 0.0)",10.6055524,-61.3976065,0.0
+565,Heights of Guanapo,Rural Community,1145,"Heights of Guanapo, Trinidad and Tobago","Heights of Guanapo (Quarry), Santa Rosa, Aripo, 300831, Trinidad and Tobago","(10.6781694, -61.2588383, 0.0)",10.6781694,-61.2588383,0.0
+566,Kandahar,Semi-Urban Community,2370,"Kandahar, Trinidad and Tobago","Kandahar Street, Ellerslie Park, Federation Park, Port of Spain, 190130, Trinidad and Tobago","(10.6773329, -61.5315215, 0.0)",10.6773329,-61.5315215,0.0
+567,Kelly Village,Urban Community,4178,"Kelly Village, Trinidad and Tobago","Kelly Village, ???, Trinidad and Tobago","(10.5866225, -61.3632924, 0.0)",10.5866225,-61.3632924,0.0
+568,La Baja,Urban Community,1218,"La Baja, Trinidad and Tobago","La Baja, La Mango, 310407, Trinidad and Tobago","(10.6679239, -61.4145921, 0.0)",10.6679239,-61.4145921,0.0
+569,La Florisante,Urban Community,1390,"La Florisante, Trinidad and Tobago",,,,,
+570,La Horquetta,Urban Community,13614,"La Horquetta, Trinidad and Tobago","La Horquetta, San Raphael, 300831, Trinidad and Tobago","(10.5973023, -61.2754374, 0.0)",10.5973023,-61.2754374,0.0
+571,La Laja,Rural Community,40,"La Laja, Trinidad and Tobago","Trinidad y tobago, Bocamar, Colonia Praderas de Guadalupe, Acapulco, Acapulco de Juárez, Guerrero, 39300, México","(16.8709295, -99.878441, 0.0)",16.8709295,-99.878441,0.0
+572,La Mango Village,Urban Community,1064,"La Mango Village, Trinidad and Tobago","La Mango, Saint Joseph, 310407, Trinidad and Tobago","(10.6633791, -61.4120214, 0.0)",10.6633791,-61.4120214,0.0
+573,La Paille Village,Urban Community,1340,"La Paille Village, Trinidad and Tobago","La Paille, Valsayn, 686, Trinidad and Tobago","(10.6165721, -61.3999295, 0.0)",10.6165721,-61.3999295,0.0
+574,La Resource,Urban Community,1355,"La Resource, Trinidad and Tobago","La Resource Road, John John, Port of Spain, 000, Trinidad and Tobago","(10.6556569, -61.5035751, 0.0)",10.6556569,-61.5035751,0.0
+575,La Seiva Village,Urban Community,1456,"La Seiva Village, Trinidad and Tobago","La Seiva, Saint Joseph, 310407, Trinidad and Tobago","(10.6770685, -61.4108155, 0.0)",10.6770685,-61.4108155,0.0
+576,Lopinot Village,Rural Community,1365,"Lopinot Village, Trinidad and Tobago","Lopinot, Port of Spain, Trinidad and Tobago","(10.6919575, -61.3254584, 0.0)",10.6919575,-61.3254584,0.0
+577,Macoya,Urban Community,2130,"Macoya, Trinidad and Tobago","Macoya Road, Arouca, Tunapuna, 686, Trinidad and Tobago","(10.6452389, -61.3834061, 0.0)",10.6452389,-61.3834061,0.0
+578,Maloney Gardens,Urban Community,10768,"Maloney Gardens, Trinidad and Tobago","Maloney Gardens, Arouca, Maloney, 00129, Trinidad and Tobago","(10.6226906, -61.3190963, 0.0)",10.6226906,-61.3190963,0.0
+579,Maracas/St. Joseph,Urban Community,3495,"Maracas/St. Joseph, Trinidad and Tobago","Maracas, Port of Spain, Trinidad and Tobago","(10.7565233, -61.4399756, 0.0)",10.7565233,-61.4399756,0.0
+580,Mausica,Urban Community,3214,"Mausica, Trinidad and Tobago","Mausica River, 351443, Trinidad and Tobago","(10.597712, -61.3055885, 0.0)",10.597712,-61.3055885,0.0
+581,Mount St. Benedict,Semi-Urban Community,47,"Mount St. Benedict, Trinidad and Tobago","Mount St. Benedict, Saint John's Road, Poolside, La Mango, 310407, Trinidad and Tobago","(10.6613566, -61.3951905, 0.0)",10.6613566,-61.3951905,0.0
+582,Olton Road,Urban Community,1474,"Olton Road, Trinidad and Tobago","Olton Road, Belmont, Port of Spain, 000, Trinidad and Tobago","(10.6609217, -61.5024466, 0.0)",10.6609217,-61.5024466,0.0
+583,Oropuna Village/Piarco,Semi-Urban Community,2661,"Oropuna Village/Piarco, Trinidad and Tobago","Oropuna River, Arouca, Piarco, ???, Trinidad and Tobago","(10.608481, -61.3373297, 0.0)",10.608481,-61.3373297,0.0
+584,Paradise Gardens,Urban Community,970,"Paradise Gardens, Trinidad and Tobago","Paradise, Trincity Mall, Sunrise Park, Arouca, Trincity, 350509, Trinidad and Tobago","(10.6269648, -61.3542334, 0.0)",10.6269648,-61.3542334,0.0
+585,Pasea Extension,Semi-Urban Community,3778,"Pasea Extension, Trinidad and Tobago",,,,,
+586,Peytonville,Urban Community,1564,"Peytonville, Trinidad and Tobago","Peytonville Road, La Horquetta, San Raphael, 351443, Trinidad and Tobago","(10.6037807, -61.2897536, 0.0)",10.6037807,-61.2897536,0.0
+587,Pinto Road,Urban Community,6817,"Pinto Road, Trinidad and Tobago","Pinto Road, Santa Rosa, Wallerfield, 300831, Trinidad and Tobago","(10.6151164, -61.2600374, 0.0)",10.6151164,-61.2600374,0.0
+588,Real Springs,Urban Community,770,"Real Springs, Trinidad and Tobago","Nature garden, José Peralta, Virgen de las Nieves, Huayna Cápac, Cuenca, Azuay, EC010107, Ecuador","(-2.9064296, -79.0046022, 0.0)",-2.9064296,-79.0046022,0.0
+589,Red Hill,Urban Community,2784,"Red Hill, Trinidad and Tobago","Red Hill, Morvant, Port of Spain, N/A, Trinidad and Tobago","(10.6633743, -61.4839044, 0.0)",10.6633743,-61.4839044,0.0
+590,Samaroo Village,Urban Community,1698,"Samaroo Village, Trinidad and Tobago","Samaroo Village, Malabar, Arima, 300831, Trinidad and Tobago","(10.6295236, -61.2878978, 0.0)",10.6295236,-61.2878978,0.0
+591,Santa Margarita,Urban Community,1341,"Santa Margarita, Trinidad and Tobago","Santa Margarita Circular Road, Poolside, Saint Augustine, 310407, Trinidad and Tobago","(10.6542033, -61.4022955, 0.0)",10.6542033,-61.4022955,0.0
+592,Santa Rosa Heights,Urban Community,3594,"Santa Rosa Heights, Trinidad and Tobago",,,,,
+593,Sherwood Park,Urban Community,2611,"Sherwood Park, Trinidad and Tobago","Sherwood Park, Hampden, Carnbee, Tobago, Trinidad and Tobago","(11.1663245, -60.7794264, 0.0)",11.1663245,-60.7794264,0.0
+594,Spring Village,Urban Community,2635,"Spring Village, Trinidad and Tobago",Trinidad and Tobago,"(10.8677845, -60.9821067, 0.0)",10.8677845,-60.9821067,0.0
+595,St. Augustine,Urban Community,3103,"St. Augustine, Trinidad and Tobago","Saint Augustine, Port of Spain, 686, Trinidad and Tobago","(10.6464474, -61.4008066, 0.0)",10.6464474,-61.4008066,0.0
+596,St. Augustine South,Urban Community,1015,"St. Augustine South, Trinidad and Tobago","Saint Augustine, Port of Spain, 686, Trinidad and Tobago","(10.6464474, -61.4008066, 0.0)",10.6464474,-61.4008066,0.0
+597,St. Helena Village,Urban Community,3704,"St. Helena Village, Trinidad and Tobago","Saint Helena, ???, Trinidad and Tobago","(10.5822408, -61.3401634, 0.0)",10.5822408,-61.3401634,0.0
+598,St. John's Village,Semi-Urban Community,632,"St. John's Village, Trinidad and Tobago",,,,,
+599,St. Joseph,Urban Community,4542,"St. Joseph, Trinidad and Tobago","Saint Joseph, Port of Spain, 310407, Trinidad and Tobago","(10.6555564, -61.4139447, 0.0)",10.6555564,-61.4139447,0.0
+600,Surrey Village,Urban Community,734,"Surrey Village, Trinidad and Tobago","Surrey Village, Lopinot Road, Sunrise Park, Arouca, Lopinot, 1 868-681-2822, Trinidad and Tobago","(10.6564344, -61.3270749, 0.0)",10.6564344,-61.3270749,0.0
+601,Tacarigua,Urban Community,4752,"Tacarigua, Trinidad and Tobago","Tacarigua, Port of Spain, 1 868-681-2822, Trinidad and Tobago","(10.6437356, -61.361173, 0.0)",10.6437356,-61.361173,0.0
+602,Trincity,Urban Community,1585,"Trincity, Trinidad and Tobago","Trincity, Port of Spain, 350509, Trinidad and Tobago","(10.6343224, -61.3567735, 0.0)",10.6343224,-61.3567735,0.0
+603,Tumpuna Road,Urban Community,939,"Tumpuna Road, Trinidad and Tobago","Tumpuna Road, San Raphael, Couva-Tabaquite-Talparo, 300831, Trinidad and Tobago","(10.5869722, -61.235245, 0.0)",10.5869722,-61.235245,0.0
+604,Tunapuna,Urban Community,16701,"Tunapuna, Trinidad and Tobago","Tunapuna, Port of Spain, 686, Trinidad and Tobago","(10.64464, -61.3916118, 0.0)",10.64464,-61.3916118,0.0
+605,Valley View,Urban Community,1056,"Valley View, Trinidad and Tobago","Valley View, La Seiva, 310407, Trinidad and Tobago","(10.6864519, -61.4098596, 0.0)",10.6864519,-61.4098596,0.0
+606,Valsayn,Urban Community,2552,"Valsayn, Trinidad and Tobago","Valsayn, Port of Spain, 12333, Trinidad and Tobago","(10.6344277, -61.41594, 0.0)",10.6344277,-61.41594,0.0
+607,Wallerfield,Rural Community,4218,"Wallerfield, Trinidad and Tobago","Wallerfield, Arima, 300831, Trinidad and Tobago","(10.6232172, -61.2386593, 0.0)",10.6232172,-61.2386593,0.0
+608,Warren Village,Urban Community,2125,"Warren Village, Trinidad and Tobago","Warren Road Recreational Gorund, Warrensville, 00000, Trinidad and Tobago","(10.5779858, -61.3947744, 0.0)",10.5779858,-61.3947744,0.0
