@@ -151,11 +151,49 @@ Fig. 1 Map of Trinidad and Tobago, (<em>Source: <a href="http://freeworldmaps.ne
 <td>Outdoor</td>
 </tr>
 </tbody>
-</table><h3 id="discussion">Discussion</h3>
-<p>Trinidad is a small country in the Caribbean that is well known for its party culture. Places to eat and “hang out” dominate all of the clusters generated. As previously mentioned in the introduction, most of the developed and populated areas are located in the western parts of Trinidad, with much of the eastern regions being scarcely dotted with venues. From the clusters generated, it is visible that the majority of communities are grouped in either Cluster 0 or Cluster 1.</p>
+</table><p>The following barplot shows the variation in the cluster distribution for the first most common venue:</p>
+<p align="center">
+	<img src="https://github.com/ssankar-23/coursera_capstone/raw/master/cluster%20distribution.png">
+</p>
+<h3 id="discussion">Discussion</h3>
+<p>Trinidad is a small country in the Caribbean that is well known for its party culture. Places to eat and “hang out” dominate all of the clusters generated. As previously mentioned in the introduction, most of the developed and populated areas are located in the western parts of Trinidad, with much of the eastern regions being scarcely dotted with venues. For this project <em>k-Means</em> machine learning was applied. This was chosen as <em>K-means</em> is unsupervised, fast and easy to interpret. It works with unlabeled data and since many of the venues in this study were reoccurring, this method of machine learning was efficient at finding similarities within the groups. From the clusters generated, it is visible that the majority of communities are grouped in either Cluster 0 or Cluster 1.</p>
 <p>Cluster 0 points are located close by but are slightly more spread out from the communities centre. These points represent businesses or venues that are more laid back and are meant for recreational activities. Bars can be seen to dominate this cluster in addition to restaurants that are traditionally “take-out”. Fields for exercise as well as farms and farmer’s markets are a common occurrence in this cluster. Businesses that <strong>target the older population and mature crowd for a more relaxed environment</strong>, should consider areas in Cluster 0.</p>
 <p>Upon further analysis, we can see that Cluster 1 points are distributed mainly at town or community centres which are most likely to encounter the highest foot traffic where persons tend to gather in higher numbers to socialize. These include food places to dine in, to a variety of shops, clubs and malls. For <strong>businesses that require high traffic areas, buzzing with activity, catering for the younger crowd</strong>, Cluster 1 points would be best suited.</p>
 <p>In Cluster 2, the top 10 most common venues were grouped perfectly with no variance in any of the points. These are located in or close to boroughs and cities in Trinidad and consist of the following category groups: Chinese Restaurant; Women’s Store; Eastern European Restaurant; Fish &amp; Chips Shop; Field; Fast Food Restaurant; Farmers Market; Farm; Falafel Restaurant; Event Service. As this cluster is specific to its target group (cities and boroughs) the two remaining locations to have businesses in this cluster would be within <strong>Arima</strong> and <strong>Chaguanas</strong>.</p>
 <p>Cluster 3 points is again topped by Bars being the most common venue. These points are similar to those in Cluster 1 in which they are located off of the main community centre. There is barely any variance in the venue types for the top 10 most common venues. This cluster was labeled as ‘Life’ as it constitutes venues which are generally a part of everyday life in Trinidad. <strong>Venues to drink, shop, exercise and gather fresh produce without having to be in the busy town centres are aimed more towards the older crowd (&gt;45 years)</strong>.</p>
 <p>The venues in Cluster 4 are almost all exclusively outdoor activities within the more rural areas. These are targeted around the coast of Trinidad where beaches and other scenic attractions may be present. Fields, farms and markets are also prevalent in these areas due to the large expanse of land available for farming and other outdoor recreational activities. Venues in this cluster are for the more outgoing persons and can be seen to be distributed more in the western and northern areas. <strong>The eastern coast possesses potential for development in such an area</strong>.</p>
+<p>From the table showing the crime and population data, it can be seen that the areas with the highest population density are: Arima, Chaguanas, Port of Spain and San Fernando. Many areas surrounding these have a higher total population but cover a greater expanse of land. They would represent more semi-urban or residential communities. The highest total populations are seen in Tunapuna/Piarco, Couva/Talparo and San Juan/Laventille which are just on the outskirts of the major cities and boroughs. However, looking at the crime choropleth map, these are also areas with a relatively high number of reported crimes. Areas which offer both a relatively high total population as well as low crime rates which are nearby main cities and boroughs are <strong>Penal/Debe</strong> for the southern region, and <strong>San Juan/Barataria</strong> for the north. Within these areas would be a good location for venues associated with <strong>Clusters 0 to 3</strong> as they also provide easy road access (close to highway) for visitors. For <strong>Cluster 4</strong>, which is mainly targeted at outdoor activities, the entire eastern coast provides many opportunities and locations. The Sangre Grande area possesses a high population than the Rio Claro/Mayaro region, however, the latter has a lower crime rate.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>The purpose of this project was to determine the best potential areas in Trinidad where businesses of all types can open. This analysis incorporated venue data from Foursquare as well as population and crime data from the Central Statistical Office of Trinidad and Tobago. From the results, the clusters generated grouped venues according to the following categories:</p>
+
+<table>
+<thead>
+<tr>
+<th>Cluster Label</th>
+<th>Assigned Name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cluster 0</td>
+<td>Recreation</td>
+</tr>
+<tr>
+<td>Cluster 1</td>
+<td>Social</td>
+</tr>
+<tr>
+<td>Cluster 2</td>
+<td>City Essentials</td>
+</tr>
+<tr>
+<td>Cluster 3</td>
+<td>Life</td>
+</tr>
+<tr>
+<td>Cluster 4</td>
+<td>Outdoor</td>
+</tr>
+</tbody>
+</table><p>The best locations for venues associated with Cluster 0, 1, 2 and 3 were found to be Penal/Debe and San Juan/Barataria whilst the best for venues associated with Cluster 4 were Sangre Grande and Rio Claro/Mayaro. These areas offered the lowest crime rates to population and best proximity to the major cities in Trinidad.</p>
 
