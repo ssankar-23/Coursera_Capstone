@@ -94,7 +94,8 @@ Fig. 1 Map of Trinidad and Tobago, (<em>Source: <a href="http://freeworldmaps.ne
 </ol>
 <h3 id="results">Results</h3>
 <p>From the <em>k-means</em> algorithm, using <em>k</em> = 5, the following map was generated:</p>
-<pre><code>Red = Cluster 0, Purple = Cluster 1, Blue = Cluster 2, Green = Cluster 3, Orange = Cluster 4
+<pre><code>Red = Cluster 0, Purple = Cluster 1, Blue = Cluster 2, Green = Cluster 3,
+Orange = Cluster 4
 </code></pre>
 <p align="center">
 	<img src="https://github.com/ssankar-23/coursera_capstone/raw/master/images/clusters_tt.png">
@@ -110,6 +111,8 @@ Fig. 1 Map of Trinidad and Tobago, (<em>Source: <a href="http://freeworldmaps.ne
 <p>The same was repeated using the crime data:</p>
 <p align="center">
 	<img src="https://github.com/ssankar-23/coursera_capstone/raw/master/images/crime.png">
+</p>
+<p align="center">
 	<img src="https://github.com/ssankar-23/coursera_capstone/raw/master/images/crime_venues.png">
 </p>
 <p>For the 5 clusters obtained, each were categorized by the following venues:</p>
