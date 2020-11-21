@@ -166,6 +166,13 @@ Orange = Cluster 4
 <p>Cluster 3 points is again topped by Bars being the most common venue. These points are similar to those in Cluster 1 in which they are located off of the main community centre. There is barely any variance in the venue types for the top 10 most common venues. This cluster was labeled as ‘Life’ as it constitutes venues which are generally a part of everyday life in Trinidad. <strong>Venues to drink, shop, exercise and gather fresh produce without having to be in the busy town centres are aimed more towards the older crowd (&gt;45 years)</strong>.</p>
 <p>The venues in Cluster 4 are almost all exclusively outdoor activities within the more rural areas. These are targeted around the coast of Trinidad where beaches and other scenic attractions may be present. Fields, farms and markets are also prevalent in these areas due to the large expanse of land available for farming and other outdoor recreational activities. Venues in this cluster are for the more outgoing persons and can be seen to be distributed more in the western and northern areas. <strong>The eastern coast possesses potential for development in such an area</strong>.</p>
 <p>From the table showing the crime and population data, it can be seen that the areas with the highest population density are: Arima, Chaguanas, Port of Spain and San Fernando. Many areas surrounding these have a higher total population but cover a greater expanse of land. They would represent more semi-urban or residential communities. The highest total populations are seen in Tunapuna/Piarco, Couva/Talparo and San Juan/Laventille which are just on the outskirts of the major cities and boroughs. However, looking at the crime choropleth map, these are also areas with a relatively high number of reported crimes. Areas which offer both a relatively high total population as well as low crime rates which are nearby main cities and boroughs are <strong>Penal/Debe</strong> for the southern region, and <strong>San Juan/Barataria</strong> for the north. Within these areas would be a good location for venues associated with <strong>Clusters 0 to 3</strong> as they also provide easy road access (close to highway) for visitors. For <strong>Cluster 4</strong>, which is mainly targeted at outdoor activities, the entire eastern coast provides many opportunities and locations. The Sangre Grande area possesses a high population than the Rio Claro/Mayaro region, however, the latter has a lower crime rate.</p>
+<h3 id="limitations">Limitations</h3>
+<p>Some of the limitations of this project are:</p>
+<ul>
+<li>The data used for comparison is not up to date. The population data is based on the 2011 census and the crime data is from 2018.</li>
+<li>The number of clusters chosen may not have been the best. The elbow method could be used to determine the best  <em>k</em>.</li>
+<li>A more precise .geojson file of Trinidad as well as more in depth data could be used to not just give the best area but also the best street.</li>
+</ul>
 <h3 id="conclusion">Conclusion</h3>
 <p>The purpose of this project was to determine the best potential areas in Trinidad where businesses of all types can open. This analysis incorporated venue data from Foursquare as well as population and crime data from the Central Statistical Office of Trinidad and Tobago. From the results, the clusters generated grouped venues according to the following categories:</p>
 
@@ -199,4 +206,12 @@ Orange = Cluster 4
 </tr>
 </tbody>
 </table><p>The best locations for venues associated with Cluster 0, 1, 2 and 3 were found to be Penal/Debe and San Juan/Barataria whilst the best for venues associated with Cluster 4 were Sangre Grande and Rio Claro/Mayaro. These areas offered the lowest crime rates to population and best proximity to the major cities in Trinidad.</p>
+<h3 id="references">References</h3>
+<ul>
+<li>Wikipedia contributors. (2020, November 17). Trinidad and Tobago. In Wikipedia, The Free Encyclopedia. Retrieved 17:31, November 21, 2020, from  <a href="https://en.wikipedia.org/w/index.php?title=Trinidad_and_Tobago&amp;oldid=989124896">https://en.wikipedia.org/w/index.php?title=Trinidad_and_Tobago&amp;oldid=989124896</a></li>
+<li>Trinidad and Tobago map. (n.d.). Free World Maps – Atlas of the World. <a href="https://www.freeworldmaps.net/centralamerica/trinidad/">https://www.freeworldmaps.net/centralamerica/trinidad/</a></li>
+<li>Trinidad and Tobago: Division (Municipalities and communities) - Population statistics, charts and map. (n.d.). City Population - Population Statistics in Maps and Charts for Cities, Agglomerations and Administrative Divisions of all Countries of the World. <a href="https://www.citypopulation.de/en/trinidad/admin/">https://www.citypopulation.de/en/trinidad/admin/</a></li>
+<li>(2020, October 14). Central Statistical Office. <a href="https://cso.gov.tt/">https://cso.gov.tt/</a></li>
+<li>Foursquare - Foursquare API</li>
+</ul>
 
